@@ -3,265 +3,8 @@
     "objects": [
       {
         "names": {
-          "common": "Singapore"
-        },
-        "codes": {
-          "alpha_2": "SG",
-          "alpha_3": "SGP"
-        },
-        "capitals": [
-          {
-            "name": "Singapore"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇬",
-          "url_png": "https://flags.restcountries.com/v5/w160/sg.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sg.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 710,
-          "miles": 274.1
-        },
-        "currencies": [
-          {
-            "code": "SGD",
-            "name": "Singapore dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "Chinese"
-          },
-          {
-            "name": "Malay"
-          },
-          {
-            "name": "Tamil"
-          }
-        ],
-        "population": 6110200,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781188691
-        }
-      },
-      {
-        "names": {
-          "common": "Sint Maarten"
-        },
-        "codes": {
-          "alpha_2": "SX",
-          "alpha_3": "SXM"
-        },
-        "capitals": [
-          {
-            "name": "Philipsburg"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇽",
-          "url_png": "https://flags.restcountries.com/v5/w160/sx.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sx.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 34,
-          "miles": 13.1
-        },
-        "currencies": [
-          {
-            "code": "ANG",
-            "name": "Netherlands Antillean guilder",
-            "symbol": "ƒ"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "French"
-          },
-          {
-            "name": "Dutch"
-          }
-        ],
-        "population": 58477,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781159969
-        }
-      },
-      {
-        "names": {
-          "common": "Slovakia"
-        },
-        "codes": {
-          "alpha_2": "SK",
-          "alpha_3": "SVK"
-        },
-        "capitals": [
-          {
-            "name": "Bratislava"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇰",
-          "url_png": "https://flags.restcountries.com/v5/w160/sk.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sk.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 49037,
-          "miles": 18933.3
-        },
-        "currencies": [
-          {
-            "code": "EUR",
-            "name": "Euro",
-            "symbol": "€"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Slovak"
-          }
-        ],
-        "population": 5405368,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781140335
-        }
-      },
-      {
-        "names": {
-          "common": "Slovenia"
-        },
-        "codes": {
-          "alpha_2": "SI",
-          "alpha_3": "SVN"
-        },
-        "capitals": [
-          {
-            "name": "Ljubljana"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇮",
-          "url_png": "https://flags.restcountries.com/v5/w160/si.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/si.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 20273,
-          "miles": 7827.4
-        },
-        "currencies": [
-          {
-            "code": "EUR",
-            "name": "Euro",
-            "symbol": "€"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Slovenian"
-          }
-        ],
-        "population": 2135107,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781213007
-        }
-      },
-      {
-        "names": {
-          "common": "Solomon Islands"
-        },
-        "codes": {
-          "alpha_2": "SB",
-          "alpha_3": "SLB"
-        },
-        "capitals": [
-          {
-            "name": "Honiara"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇧",
-          "url_png": "https://flags.restcountries.com/v5/w160/sb.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sb.svg"
-        },
-        "region": "Oceania",
-        "area": {
-          "kilometers": 28896,
-          "miles": 11156.8
-        },
-        "currencies": [
-          {
-            "code": "SBD",
-            "name": "Solomon Islands dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 828857,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781147339
-        }
-      },
-      {
-        "names": {
-          "common": "Somalia"
-        },
-        "codes": {
-          "alpha_2": "SO",
-          "alpha_3": "SOM"
-        },
-        "capitals": [
-          {
-            "name": "Mogadishu"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇴",
-          "url_png": "https://flags.restcountries.com/v5/w160/so.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/so.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 637657,
-          "miles": 246200.6
-        },
-        "currencies": [
-          {
-            "code": "SOS",
-            "name": "Somali shilling",
-            "symbol": "Sh"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Arabic"
-          },
-          {
-            "name": "Somali"
-          }
-        ],
-        "population": 19280850,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781161132
-        }
-      },
-      {
-        "names": {
-          "common": "Somaliland"
+          "common": "Abkhazia",
+          "official": "Republic of Abkhazia"
         },
         "codes": {
           "alpha_2": "",
@@ -269,209 +12,7 @@
         },
         "capitals": [
           {
-            "name": "Hargeisa"
-          }
-        ],
-        "flag": {
-          "emoji": "",
-          "url_png": "",
-          "url_svg": ""
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 137600,
-          "miles": 53127.7
-        },
-        "currencies": [
-          {
-            "code": "SLSH",
-            "name": "Somaliland shilling",
-            "symbol": "Sl.Sh"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Somali"
-          },
-          {
-            "name": "Arabic"
-          },
-          {
-            "name": "English"
-          }
-        ],
-        "population": 6200000,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781212855
-        }
-      },
-      {
-        "names": {
-          "common": "South Africa"
-        },
-        "codes": {
-          "alpha_2": "ZA",
-          "alpha_3": "ZAF"
-        },
-        "capitals": [
-          {
-            "name": "Pretoria"
-          },
-          {
-            "name": "Cape Town"
-          },
-          {
-            "name": "Bloemfontein"
-          }
-        ],
-        "flag": {
-          "emoji": "🇿🇦",
-          "url_png": "https://flags.restcountries.com/v5/w160/za.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/za.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 1221037,
-          "miles": 471444.8
-        },
-        "currencies": [
-          {
-            "code": "ZAR",
-            "name": "South African rand",
-            "symbol": "R"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Afrikaans"
-          },
-          {
-            "name": "English"
-          },
-          {
-            "name": "Southern Ndebele"
-          },
-          {
-            "name": "Northern Sotho"
-          },
-          {
-            "name": "Sotho"
-          },
-          {
-            "name": "Swazi"
-          },
-          {
-            "name": "Tswana"
-          },
-          {
-            "name": "Tsonga"
-          },
-          {
-            "name": "Venda"
-          },
-          {
-            "name": "Xhosa"
-          },
-          {
-            "name": "Zulu"
-          }
-        ],
-        "population": 63015904,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781140336
-        }
-      },
-      {
-        "names": {
-          "common": "South Georgia"
-        },
-        "codes": {
-          "alpha_2": "GS",
-          "alpha_3": "SGS"
-        },
-        "capitals": [
-          {
-            "name": "King Edward Point"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇸",
-          "url_png": "https://flags.restcountries.com/v5/w160/gs.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/gs.svg"
-        },
-        "region": "Antarctic",
-        "area": {
-          "kilometers": 3903,
-          "miles": 1507
-        },
-        "currencies": [
-          {
-            "code": "GBP",
-            "name": "British pound",
-            "symbol": "£"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 32,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781154825
-        }
-      },
-      {
-        "names": {
-          "common": "South Korea"
-        },
-        "codes": {
-          "alpha_2": "KR",
-          "alpha_3": "KOR"
-        },
-        "capitals": [
-          {
-            "name": "Seoul"
-          }
-        ],
-        "flag": {
-          "emoji": "🇰🇷",
-          "url_png": "https://flags.restcountries.com/v5/w160/kr.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/kr.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 100210,
-          "miles": 38691.3
-        },
-        "currencies": [
-          {
-            "code": "KRW",
-            "name": "South Korean won",
-            "symbol": "₩"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Korean"
-          }
-        ],
-        "population": 51106229,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781156289
-        }
-      },
-      {
-        "names": {
-          "common": "South Ossetia"
-        },
-        "codes": {
-          "alpha_2": "",
-          "alpha_3": ""
-        },
-        "capitals": [
-          {
-            "name": "Tskhinvali"
+            "name": "Sukhumi"
           }
         ],
         "flag": {
@@ -481,8 +22,8 @@
         },
         "region": "Asia",
         "area": {
-          "kilometers": 3900,
-          "miles": 1505.8
+          "kilometers": 8665,
+          "miles": 3345.6
         },
         "currencies": [
           {
@@ -493,392 +34,134 @@
         ],
         "languages": [
           {
-            "name": "Ossetic"
+            "name": "Abkhaz"
           },
           {
             "name": "Russian"
           }
         ],
-        "population": 56520,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781188693
-        }
-      },
-      {
-        "names": {
-          "common": "South Sudan"
-        },
-        "codes": {
-          "alpha_2": "SS",
-          "alpha_3": "SSD"
-        },
-        "capitals": [
-          {
-            "name": "Juba"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇸",
-          "url_png": "https://flags.restcountries.com/v5/w160/ss.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ss.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 619745,
-          "miles": 239284.8
-        },
-        "currencies": [
-          {
-            "code": "SSP",
-            "name": "South Sudanese pound",
-            "symbol": "£"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 12703714,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781143108
-        }
-      },
-      {
-        "names": {
-          "common": "Spain"
-        },
-        "codes": {
-          "alpha_2": "ES",
-          "alpha_3": "ESP"
-        },
-        "capitals": [
-          {
-            "name": "Madrid"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇸",
-          "url_png": "https://flags.restcountries.com/v5/w160/es.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/es.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 505992,
-          "miles": 195364.5
-        },
-        "currencies": [
-          {
-            "code": "EUR",
-            "name": "Euro",
-            "symbol": "€"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Spanish"
-          },
-          {
-            "name": "Catalan"
-          },
-          {
-            "name": "Basque"
-          },
-          {
-            "name": "Galician"
-          },
-          {
-            "name": "Aranese"
-          }
-        ],
-        "population": 49687120,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781143108
-        }
-      },
-      {
-        "names": {
-          "common": "Sri Lanka"
-        },
-        "codes": {
-          "alpha_2": "LK",
-          "alpha_3": "LKA"
-        },
-        "capitals": [
-          {
-            "name": "Sri Jayawardenepura Kotte"
-          }
-        ],
-        "flag": {
-          "emoji": "🇱🇰",
-          "url_png": "https://flags.restcountries.com/v5/w160/lk.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/lk.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 65610,
-          "miles": 25332.2
-        },
-        "currencies": [
-          {
-            "code": "LKR",
-            "name": "Sri Lankan rupee",
-            "symbol": "Rs  රු"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Sinhala"
-          },
-          {
-            "name": "Tamil"
-          }
-        ],
-        "population": 21756000,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781157030
-        }
-      },
-      {
-        "names": {
-          "common": "Sudan"
-        },
-        "codes": {
-          "alpha_2": "SD",
-          "alpha_3": "SDN"
-        },
-        "capitals": [
-          {
-            "name": "Khartoum"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇩",
-          "url_png": "https://flags.restcountries.com/v5/w160/sd.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sd.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 1886068,
-          "miles": 728214.6
-        },
-        "currencies": [
-          {
-            "code": "SDG",
-            "name": "Sudanese pound",
-            "symbol": "ج.س"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Arabic"
-          },
-          {
-            "name": "English"
-          }
-        ],
-        "population": 51767437,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781149213
-        }
-      },
-      {
-        "names": {
-          "common": "Suriname"
-        },
-        "codes": {
-          "alpha_2": "SR",
-          "alpha_3": "SUR"
-        },
-        "capitals": [
-          {
-            "name": "Paramaribo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇷",
-          "url_png": "https://flags.restcountries.com/v5/w160/sr.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sr.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 163820,
-          "miles": 63251.2
-        },
-        "currencies": [
-          {
-            "code": "SRD",
-            "name": "Surinamese dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Dutch"
-          }
-        ],
-        "population": 632638,
+        "population": 244000,
         "_meta": {
           "lastUpdatedTimestamp": 1781148444
         }
       },
       {
         "names": {
-          "common": "Svalbard and Jan Mayen"
+          "common": "Afghanistan",
+          "official": "Islamic Republic of Afghanistan"
         },
         "codes": {
-          "alpha_2": "SJ",
-          "alpha_3": "SJM"
+          "alpha_2": "AF",
+          "alpha_3": "AFG"
         },
         "capitals": [
           {
-            "name": "Longyearbyen"
+            "name": "Kabul"
           }
         ],
         "flag": {
-          "emoji": "🇸🇯",
-          "url_png": "https://flags.restcountries.com/v5/w160/sj.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sj.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 61399,
-          "miles": 23706.3
-        },
-        "currencies": [
-          {
-            "code": "NOK",
-            "name": "krone",
-            "symbol": "kr"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Norwegian"
-          }
-        ],
-        "population": 2562,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781137527
-        }
-      },
-      {
-        "names": {
-          "common": "Sweden"
-        },
-        "codes": {
-          "alpha_2": "SE",
-          "alpha_3": "SWE"
-        },
-        "capitals": [
-          {
-            "name": "Stockholm"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇪",
-          "url_png": "https://flags.restcountries.com/v5/w160/se.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/se.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 450295,
-          "miles": 173859.8
-        },
-        "currencies": [
-          {
-            "code": "SEK",
-            "name": "Swedish krona",
-            "symbol": "kr"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Swedish"
-          }
-        ],
-        "population": 10610485,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781140335
-        }
-      },
-      {
-        "names": {
-          "common": "Switzerland"
-        },
-        "codes": {
-          "alpha_2": "CH",
-          "alpha_3": "CHE"
-        },
-        "capitals": [
-          {
-            "name": "Bern"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇭",
-          "url_png": "https://flags.restcountries.com/v5/w160/ch.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ch.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 41284,
-          "miles": 15939.8
-        },
-        "currencies": [
-          {
-            "code": "CHF",
-            "name": "Swiss franc",
-            "symbol": "Fr."
-          }
-        ],
-        "languages": [
-          {
-            "name": "French"
-          },
-          {
-            "name": "Swiss German"
-          },
-          {
-            "name": "Italian"
-          },
-          {
-            "name": "Romansh"
-          }
-        ],
-        "population": 9060598,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781161132
-        }
-      },
-      {
-        "names": {
-          "common": "Syria"
-        },
-        "codes": {
-          "alpha_2": "SY",
-          "alpha_3": "SYR"
-        },
-        "capitals": [
-          {
-            "name": "Damascus"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇾",
-          "url_png": "https://flags.restcountries.com/v5/w160/sy.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/sy.svg"
+          "emoji": "🇦🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/af.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/af.svg"
         },
         "region": "Asia",
         "area": {
-          "kilometers": 185180,
-          "miles": 71498.4
+          "kilometers": 652230,
+          "miles": 251827.3
         },
         "currencies": [
           {
-            "code": "SYP",
-            "name": "Syrian pound",
-            "symbol": "£"
+            "code": "AFN",
+            "name": "Afghan afghani",
+            "symbol": "؋"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Dari"
+          },
+          {
+            "name": "Pashto"
+          },
+          {
+            "name": "Turkmen"
+          }
+        ],
+        "population": 35000000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781163352
+        }
+      },
+      {
+        "names": {
+          "common": "Albania",
+          "official": "Republic of Albania"
+        },
+        "codes": {
+          "alpha_2": "AL",
+          "alpha_3": "ALB"
+        },
+        "capitals": [
+          {
+            "name": "Tirana"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇱",
+          "url_png": "https://flags.restcountries.com/v5/w160/al.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/al.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 28748,
+          "miles": 11099.7
+        },
+        "currencies": [
+          {
+            "code": "ALL",
+            "name": "Albanian lek",
+            "symbol": "L"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Albanian"
+          }
+        ],
+        "population": 2402113,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Algeria",
+          "official": "People's Democratic Republic of Algeria"
+        },
+        "codes": {
+          "alpha_2": "DZ",
+          "alpha_3": "DZA"
+        },
+        "capitals": [
+          {
+            "name": "Algiers"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇿",
+          "url_png": "https://flags.restcountries.com/v5/w160/dz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/dz.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 2381741,
+          "miles": 919595
+        },
+        "currencies": [
+          {
+            "code": "DZD",
+            "name": "Algerian dinar",
+            "symbol": "د.ج"
           }
         ],
         "languages": [
@@ -886,239 +169,34 @@
             "name": "Arabic"
           }
         ],
-        "population": 26019711,
+        "population": 47400000,
         "_meta": {
-          "lastUpdatedTimestamp": 1781144049
+          "lastUpdatedTimestamp": 1781145812
         }
       },
       {
         "names": {
-          "common": "São Tomé and Príncipe"
+          "common": "American Samoa",
+          "official": "American Samoa"
         },
         "codes": {
-          "alpha_2": "ST",
-          "alpha_3": "STP"
+          "alpha_2": "AS",
+          "alpha_3": "ASM"
         },
         "capitals": [
           {
-            "name": "São Tomé"
+            "name": "Pago Pago"
           }
         ],
         "flag": {
-          "emoji": "🇸🇹",
-          "url_png": "https://flags.restcountries.com/v5/w160/st.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/st.svg"
+          "emoji": "🇦🇸",
+          "url_png": "https://flags.restcountries.com/v5/w160/as.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/as.svg"
         },
-        "region": "Africa",
+        "region": "Oceania",
         "area": {
-          "kilometers": 964,
-          "miles": 372.2
-        },
-        "currencies": [
-          {
-            "code": "STN",
-            "name": "São Tomé and Príncipe dobra",
-            "symbol": "Db"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Portuguese"
-          }
-        ],
-        "population": 220372,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781160549
-        }
-      },
-      {
-        "names": {
-          "common": "Taiwan"
-        },
-        "codes": {
-          "alpha_2": "TW",
-          "alpha_3": "TWN"
-        },
-        "capitals": [
-          {
-            "name": "Taipei"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇼",
-          "url_png": "https://flags.restcountries.com/v5/w160/tw.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tw.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 36193,
-          "miles": 13974.2
-        },
-        "currencies": [
-          {
-            "code": "TWD",
-            "name": "New Taiwan dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Chinese"
-          }
-        ],
-        "population": 23299132,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781154825
-        }
-      },
-      {
-        "names": {
-          "common": "Tajikistan"
-        },
-        "codes": {
-          "alpha_2": "TJ",
-          "alpha_3": "TJK"
-        },
-        "capitals": [
-          {
-            "name": "Dushanbe"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇯",
-          "url_png": "https://flags.restcountries.com/v5/w160/tj.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tj.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 143100,
-          "miles": 55251.2
-        },
-        "currencies": [
-          {
-            "code": "TJS",
-            "name": "Tajikistani somoni",
-            "symbol": "ЅМ"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Russian"
-          },
-          {
-            "name": "Tajik"
-          }
-        ],
-        "population": 10786734,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781155412
-        }
-      },
-      {
-        "names": {
-          "common": "Tanzania"
-        },
-        "codes": {
-          "alpha_2": "TZ",
-          "alpha_3": "TZA"
-        },
-        "capitals": [
-          {
-            "name": "Dodoma"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇿",
-          "url_png": "https://flags.restcountries.com/v5/w160/tz.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tz.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 945087,
-          "miles": 364900
-        },
-        "currencies": [
-          {
-            "code": "TZS",
-            "name": "Tanzanian shilling",
-            "symbol": "Sh"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "Swahili"
-          }
-        ],
-        "population": 67462121,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781153196
-        }
-      },
-      {
-        "names": {
-          "common": "Thailand"
-        },
-        "codes": {
-          "alpha_2": "TH",
-          "alpha_3": "THA"
-        },
-        "capitals": [
-          {
-            "name": "Bangkok"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇭",
-          "url_png": "https://flags.restcountries.com/v5/w160/th.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/th.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 513120,
-          "miles": 198116.7
-        },
-        "currencies": [
-          {
-            "code": "THB",
-            "name": "Thai baht",
-            "symbol": "฿"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Thai"
-          }
-        ],
-        "population": 65975198,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781144049
-        }
-      },
-      {
-        "names": {
-          "common": "Timor-Leste"
-        },
-        "codes": {
-          "alpha_2": "TL",
-          "alpha_3": "TLS"
-        },
-        "capitals": [
-          {
-            "name": "Dili"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇱",
-          "url_png": "https://flags.restcountries.com/v5/w160/tl.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tl.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 14874,
-          "miles": 5742.9
+          "kilometers": 199,
+          "miles": 76.8
         },
         "currencies": [
           {
@@ -1129,39 +207,790 @@
         ],
         "languages": [
           {
-            "name": "Portuguese"
+            "name": "English"
           },
           {
-            "name": "Tetum"
+            "name": "Samoan"
           }
         ],
-        "population": 1434991,
+        "population": 43268,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159324
+        }
+      },
+      {
+        "names": {
+          "common": "Andorra",
+          "official": "Principality of Andorra"
+        },
+        "codes": {
+          "alpha_2": "AD",
+          "alpha_3": "AND"
+        },
+        "capitals": [
+          {
+            "name": "Andorra la Vella"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇩",
+          "url_png": "https://flags.restcountries.com/v5/w160/ad.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ad.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 468,
+          "miles": 180.7
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Catalan"
+          }
+        ],
+        "population": 89368,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781149213
+        }
+      },
+      {
+        "names": {
+          "common": "Angola",
+          "official": "Republic of Angola"
+        },
+        "codes": {
+          "alpha_2": "AO",
+          "alpha_3": "AGO"
+        },
+        "capitals": [
+          {
+            "name": "Luanda"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/ao.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ao.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 1246700,
+          "miles": 481353.4
+        },
+        "currencies": [
+          {
+            "code": "AOA",
+            "name": "Angolan kwanza",
+            "symbol": "Kz"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Portuguese"
+          }
+        ],
+        "population": 36604681,
         "_meta": {
           "lastUpdatedTimestamp": 1781143108
         }
       },
       {
         "names": {
-          "common": "Togo"
+          "common": "Anguilla",
+          "official": "Anguilla"
         },
         "codes": {
-          "alpha_2": "TG",
-          "alpha_3": "TGO"
+          "alpha_2": "AI",
+          "alpha_3": "AIA"
         },
         "capitals": [
           {
-            "name": "Lomé"
+            "name": "The Valley"
           }
         ],
         "flag": {
-          "emoji": "🇹🇬",
-          "url_png": "https://flags.restcountries.com/v5/w160/tg.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tg.svg"
+          "emoji": "🇦🇮",
+          "url_png": "https://flags.restcountries.com/v5/w160/ai.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ai.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 91,
+          "miles": 35.1
+        },
+        "currencies": [
+          {
+            "code": "XCD",
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 16010,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781149212
+        }
+      },
+      {
+        "names": {
+          "common": "Antarctica",
+          "official": "Antarctica"
+        },
+        "codes": {
+          "alpha_2": "AQ",
+          "alpha_3": "ATA"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇦🇶",
+          "url_png": "https://flags.restcountries.com/v5/w160/aq.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/aq.svg"
+        },
+        "region": "Antarctic",
+        "area": {
+          "kilometers": 14000000,
+          "miles": 5405428
+        },
+        "currencies": [],
+        "languages": [],
+        "population": 1300,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781157030
+        }
+      },
+      {
+        "names": {
+          "common": "Antigua and Barbuda",
+          "official": "Antigua and Barbuda"
+        },
+        "codes": {
+          "alpha_2": "AG",
+          "alpha_3": "ATG"
+        },
+        "capitals": [
+          {
+            "name": "Saint John's"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/ag.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ag.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 442,
+          "miles": 170.7
+        },
+        "currencies": [
+          {
+            "code": "XCD",
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 106365,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144688
+        }
+      },
+      {
+        "names": {
+          "common": "Argentina",
+          "official": "Argentine Republic"
+        },
+        "codes": {
+          "alpha_2": "AR",
+          "alpha_3": "ARG"
+        },
+        "capitals": [
+          {
+            "name": "Buenos Aires"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/ar.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ar.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 2780400,
+          "miles": 1073518
+        },
+        "currencies": [
+          {
+            "code": "ARS",
+            "name": "Argentine peso",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Guarani"
+          },
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 46735004,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188693
+        }
+      },
+      {
+        "names": {
+          "common": "Armenia",
+          "official": "Republic of Armenia"
+        },
+        "codes": {
+          "alpha_2": "AM",
+          "alpha_3": "ARM"
+        },
+        "capitals": [
+          {
+            "name": "Yerevan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/am.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/am.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 29743,
+          "miles": 11483.8
+        },
+        "currencies": [
+          {
+            "code": "AMD",
+            "name": "Armenian dram",
+            "symbol": "֏"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Armenian"
+          }
+        ],
+        "population": 3081100,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188693
+        }
+      },
+      {
+        "names": {
+          "common": "Aruba",
+          "official": "Aruba"
+        },
+        "codes": {
+          "alpha_2": "AW",
+          "alpha_3": "ABW"
+        },
+        "capitals": [
+          {
+            "name": "Oranjestad"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇼",
+          "url_png": "https://flags.restcountries.com/v5/w160/aw.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/aw.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 180,
+          "miles": 69.5
+        },
+        "currencies": [
+          {
+            "code": "AWG",
+            "name": "Aruban florin",
+            "symbol": "ƒ"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Dutch"
+          },
+          {
+            "name": "Papiamento"
+          }
+        ],
+        "population": 108880,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781192253
+        }
+      },
+      {
+        "names": {
+          "common": "Australia",
+          "official": "Commonwealth of Australia"
+        },
+        "codes": {
+          "alpha_2": "AU",
+          "alpha_3": "AUS"
+        },
+        "capitals": [
+          {
+            "name": "Canberra"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇺",
+          "url_png": "https://flags.restcountries.com/v5/w160/au.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/au.svg"
+        },
+        "region": "Oceania",
+        "area": {
+          "kilometers": 7692024,
+          "miles": 2969905.9
+        },
+        "currencies": [
+          {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 27724744,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "Austria",
+          "official": "Republic of Austria"
+        },
+        "codes": {
+          "alpha_2": "AT",
+          "alpha_3": "AUT"
+        },
+        "capitals": [
+          {
+            "name": "Vienna"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇹",
+          "url_png": "https://flags.restcountries.com/v5/w160/at.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/at.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 83871,
+          "miles": 32382.8
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "German"
+          }
+        ],
+        "population": 9219113,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781157534
+        }
+      },
+      {
+        "names": {
+          "common": "Azerbaijan",
+          "official": "Republic of Azerbaijan"
+        },
+        "codes": {
+          "alpha_2": "AZ",
+          "alpha_3": "AZE"
+        },
+        "capitals": [
+          {
+            "name": "Baku"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇿",
+          "url_png": "https://flags.restcountries.com/v5/w160/az.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/az.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 86600,
+          "miles": 33436.4
+        },
+        "currencies": [
+          {
+            "code": "AZN",
+            "name": "Azerbaijani manat",
+            "symbol": "₼"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Azerbaijani"
+          }
+        ],
+        "population": 10353296,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781140335
+        }
+      },
+      {
+        "names": {
+          "common": "Bahamas",
+          "official": "Commonwealth of the Bahamas"
+        },
+        "codes": {
+          "alpha_2": "BS",
+          "alpha_3": "BHS"
+        },
+        "capitals": [
+          {
+            "name": "Nassau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇸",
+          "url_png": "https://flags.restcountries.com/v5/w160/bs.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bs.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 13943,
+          "miles": 5383.4
+        },
+        "currencies": [
+          {
+            "code": "BSD",
+            "name": "Bahamian dollar",
+            "symbol": "$"
+          },
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 398165,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147340
+        }
+      },
+      {
+        "names": {
+          "common": "Bahrain",
+          "official": "Kingdom of Bahrain"
+        },
+        "codes": {
+          "alpha_2": "BH",
+          "alpha_3": "BHR"
+        },
+        "capitals": [
+          {
+            "name": "Manama"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇭",
+          "url_png": "https://flags.restcountries.com/v5/w160/bh.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bh.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 765,
+          "miles": 295.4
+        },
+        "currencies": [
+          {
+            "code": "BHD",
+            "name": "Bahraini dinar",
+            "symbol": ".د.ب"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          }
+        ],
+        "population": 1501635,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Bangladesh",
+          "official": "People's Republic of Bangladesh"
+        },
+        "codes": {
+          "alpha_2": "BD",
+          "alpha_3": "BGD"
+        },
+        "capitals": [
+          {
+            "name": "Dhaka"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇩",
+          "url_png": "https://flags.restcountries.com/v5/w160/bd.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bd.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 147570,
+          "miles": 56977.1
+        },
+        "currencies": [
+          {
+            "code": "BDT",
+            "name": "Bangladeshi taka",
+            "symbol": "৳"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Bengali"
+          }
+        ],
+        "population": 175423000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781162958
+        }
+      },
+      {
+        "names": {
+          "common": "Barbados",
+          "official": "Barbados"
+        },
+        "codes": {
+          "alpha_2": "BB",
+          "alpha_3": "BRB"
+        },
+        "capitals": [
+          {
+            "name": "Bridgetown"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇧",
+          "url_png": "https://flags.restcountries.com/v5/w160/bb.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bb.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 430,
+          "miles": 166
+        },
+        "currencies": [
+          {
+            "code": "BBD",
+            "name": "Barbadian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 281998,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Belarus",
+          "official": "Republic of Belarus"
+        },
+        "codes": {
+          "alpha_2": "BY",
+          "alpha_3": "BLR"
+        },
+        "capitals": [
+          {
+            "name": "Minsk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇾",
+          "url_png": "https://flags.restcountries.com/v5/w160/by.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/by.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 207600,
+          "miles": 80154.8
+        },
+        "currencies": [
+          {
+            "code": "BYN",
+            "name": "Belarusian ruble",
+            "symbol": "Br"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Belarusian"
+          },
+          {
+            "name": "Russian"
+          }
+        ],
+        "population": 9109280,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144689
+        }
+      },
+      {
+        "names": {
+          "common": "Belgium",
+          "official": "Kingdom of Belgium"
+        },
+        "codes": {
+          "alpha_2": "BE",
+          "alpha_3": "BEL"
+        },
+        "capitals": [
+          {
+            "name": "Brussels"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇪",
+          "url_png": "https://flags.restcountries.com/v5/w160/be.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/be.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 30528,
+          "miles": 11786.9
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "German"
+          },
+          {
+            "name": "French"
+          },
+          {
+            "name": "Dutch"
+          }
+        ],
+        "population": 11867634,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Belize",
+          "official": "Belize"
+        },
+        "codes": {
+          "alpha_2": "BZ",
+          "alpha_3": "BLZ"
+        },
+        "capitals": [
+          {
+            "name": "Belmopan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇿",
+          "url_png": "https://flags.restcountries.com/v5/w160/bz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bz.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 22966,
+          "miles": 8867.2
+        },
+        "currencies": [
+          {
+            "code": "BZD",
+            "name": "Belize dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Belize Kriol"
+          },
+          {
+            "name": "English"
+          },
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 397483,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781161132
+        }
+      },
+      {
+        "names": {
+          "common": "Benin",
+          "official": "Republic of Benin"
+        },
+        "codes": {
+          "alpha_2": "BJ",
+          "alpha_3": "BEN"
+        },
+        "capitals": [
+          {
+            "name": "Porto-Novo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇯",
+          "url_png": "https://flags.restcountries.com/v5/w160/bj.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bj.svg"
         },
         "region": "Africa",
         "area": {
-          "kilometers": 56785,
-          "miles": 21924.8
+          "kilometers": 112622,
+          "miles": 43483.6
         },
         "currencies": [
           {
@@ -1175,35 +1004,1248 @@
             "name": "French"
           }
         ],
-        "population": 9583381,
+        "population": 13754688,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781162689
+        }
+      },
+      {
+        "names": {
+          "common": "Bermuda",
+          "official": "Bermuda"
+        },
+        "codes": {
+          "alpha_2": "BM",
+          "alpha_3": "BMU"
+        },
+        "capitals": [
+          {
+            "name": "Hamilton"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/bm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bm.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 54,
+          "miles": 20.8
+        },
+        "currencies": [
+          {
+            "code": "BMD",
+            "name": "Bermudian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 63913,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Bhutan",
+          "official": "Kingdom of Bhutan"
+        },
+        "codes": {
+          "alpha_2": "BT",
+          "alpha_3": "BTN"
+        },
+        "capitals": [
+          {
+            "name": "Thimphu"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇹",
+          "url_png": "https://flags.restcountries.com/v5/w160/bt.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bt.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 38394,
+          "miles": 14824
+        },
+        "currencies": [
+          {
+            "code": "BTN",
+            "name": "Bhutanese ngultrum",
+            "symbol": "Nu."
+          },
+          {
+            "code": "INR",
+            "name": "Indian rupee",
+            "symbol": "₹"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Dzongkha"
+          }
+        ],
+        "population": 727145,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781145812
+        }
+      },
+      {
+        "names": {
+          "common": "Bolivia",
+          "official": "Plurinational State of Bolivia"
+        },
+        "codes": {
+          "alpha_2": "BO",
+          "alpha_3": "BOL"
+        },
+        "capitals": [
+          {
+            "name": "Sucre"
+          },
+          {
+            "name": "La Paz"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/bo.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bo.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 1098581,
+          "miles": 424164.3
+        },
+        "currencies": [
+          {
+            "code": "BOB",
+            "name": "Bolivian boliviano",
+            "symbol": "Bs."
+          }
+        ],
+        "languages": [
+          {
+            "name": "Aymara"
+          },
+          {
+            "name": "Guarani"
+          },
+          {
+            "name": "Quechua"
+          },
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 11365333,
         "_meta": {
           "lastUpdatedTimestamp": 1781188693
         }
       },
       {
         "names": {
-          "common": "Tokelau"
+          "common": "Bosnia and Herzegovina",
+          "official": "Bosnia and Herzegovina"
         },
         "codes": {
-          "alpha_2": "TK",
-          "alpha_3": "TKL"
+          "alpha_2": "BA",
+          "alpha_3": "BIH"
         },
         "capitals": [
           {
-            "name": "Fakaofo"
+            "name": "Sarajevo"
           }
         ],
         "flag": {
-          "emoji": "🇹🇰",
-          "url_png": "https://flags.restcountries.com/v5/w160/tk.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tk.svg"
+          "emoji": "🇧🇦",
+          "url_png": "https://flags.restcountries.com/v5/w160/ba.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ba.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 51209,
+          "miles": 19771.9
+        },
+        "currencies": [
+          {
+            "code": "BAM",
+            "name": "Bosnia and Herzegovina convertible mark",
+            "symbol": "KM"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Bosnian"
+          },
+          {
+            "name": "Croatian"
+          },
+          {
+            "name": "Serbian"
+          }
+        ],
+        "population": 3412000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Botswana",
+          "official": "Republic of Botswana"
+        },
+        "codes": {
+          "alpha_2": "BW",
+          "alpha_3": "BWA"
+        },
+        "capitals": [
+          {
+            "name": "Gaborone"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇼",
+          "url_png": "https://flags.restcountries.com/v5/w160/bw.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bw.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 582000,
+          "miles": 224711.4
+        },
+        "currencies": [
+          {
+            "code": "BWP",
+            "name": "Botswana pula",
+            "symbol": "P"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "Tswana"
+          }
+        ],
+        "population": 2359609,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Bouvet Island",
+          "official": "Bouvet Island"
+        },
+        "codes": {
+          "alpha_2": "BV",
+          "alpha_3": "BVT"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇧🇻",
+          "url_png": "https://flags.restcountries.com/v5/w160/bv.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bv.svg"
+        },
+        "region": "Antarctic",
+        "area": {
+          "kilometers": 49,
+          "miles": 18.9
+        },
+        "currencies": [],
+        "languages": [
+          {
+            "name": "Norwegian"
+          }
+        ],
+        "population": 0,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153496
+        }
+      },
+      {
+        "names": {
+          "common": "Brazil",
+          "official": "Federative Republic of Brazil"
+        },
+        "codes": {
+          "alpha_2": "BR",
+          "alpha_3": "BRA"
+        },
+        "capitals": [
+          {
+            "name": "Brasília"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/br.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/br.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 8515767,
+          "miles": 3287954.7
+        },
+        "currencies": [
+          {
+            "code": "BRL",
+            "name": "Brazilian real",
+            "symbol": "R$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Portuguese"
+          }
+        ],
+        "population": 213421037,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781145812
+        }
+      },
+      {
+        "names": {
+          "common": "British Indian Ocean Territory",
+          "official": "British Indian Ocean Territory"
+        },
+        "codes": {
+          "alpha_2": "IO",
+          "alpha_3": "IOT"
+        },
+        "capitals": [
+          {
+            "name": "Diego Garcia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇮🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/io.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/io.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 60,
+          "miles": 23.2
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 2000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "British Virgin Islands",
+          "official": "Virgin Islands"
+        },
+        "codes": {
+          "alpha_2": "VG",
+          "alpha_3": "VGB"
+        },
+        "capitals": [
+          {
+            "name": "Road Town"
+          }
+        ],
+        "flag": {
+          "emoji": "🇻🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/vg.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/vg.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 151,
+          "miles": 58.3
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 38322,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781143109
+        }
+      },
+      {
+        "names": {
+          "common": "Brunei",
+          "official": "Nation of Brunei, the Abode of Peace"
+        },
+        "codes": {
+          "alpha_2": "BN",
+          "alpha_3": "BRN"
+        },
+        "capitals": [
+          {
+            "name": "Bandar Seri Begawan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇳",
+          "url_png": "https://flags.restcountries.com/v5/w160/bn.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bn.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 5765,
+          "miles": 2225.9
+        },
+        "currencies": [
+          {
+            "code": "BND",
+            "name": "Brunei dollar",
+            "symbol": "$"
+          },
+          {
+            "code": "SGD",
+            "name": "Singapore dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Malay"
+          }
+        ],
+        "population": 458600,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781140336
+        }
+      },
+      {
+        "names": {
+          "common": "Bulgaria",
+          "official": "Republic of Bulgaria"
+        },
+        "codes": {
+          "alpha_2": "BG",
+          "alpha_3": "BGR"
+        },
+        "capitals": [
+          {
+            "name": "Sofia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/bg.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bg.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 110879,
+          "miles": 42810.6
+        },
+        "currencies": [
+          {
+            "code": "BGN",
+            "name": "Bulgarian lev",
+            "symbol": "лв"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Bulgarian"
+          }
+        ],
+        "population": 6423207,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144049
+        }
+      },
+      {
+        "names": {
+          "common": "Burkina Faso",
+          "official": "Burkina Faso"
+        },
+        "codes": {
+          "alpha_2": "BF",
+          "alpha_3": "BFA"
+        },
+        "capitals": [
+          {
+            "name": "Ouagadougou"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/bf.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bf.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 272967,
+          "miles": 105393.1
+        },
+        "currencies": [
+          {
+            "code": "XOF",
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 22489126,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159324
+        }
+      },
+      {
+        "names": {
+          "common": "Burundi",
+          "official": "Republic of Burundi"
+        },
+        "codes": {
+          "alpha_2": "BI",
+          "alpha_3": "BDI"
+        },
+        "capitals": [
+          {
+            "name": "Gitega"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇮",
+          "url_png": "https://flags.restcountries.com/v5/w160/bi.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bi.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 27834,
+          "miles": 10746.8
+        },
+        "currencies": [
+          {
+            "code": "BIF",
+            "name": "Burundian franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Rundi"
+          }
+        ],
+        "population": 14151540,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153194
+        }
+      },
+      {
+        "names": {
+          "common": "Cabo Verde",
+          "official": "Republic of Cabo Verde"
+        },
+        "codes": {
+          "alpha_2": "CV",
+          "alpha_3": "CPV"
+        },
+        "capitals": [
+          {
+            "name": "Praia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇻",
+          "url_png": "https://flags.restcountries.com/v5/w160/cv.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cv.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 4033,
+          "miles": 1557.1
+        },
+        "currencies": [
+          {
+            "code": "CVE",
+            "name": "Cape Verdean escudo",
+            "symbol": "Esc"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Portuguese"
+          }
+        ],
+        "population": 491233,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159969
+        }
+      },
+      {
+        "names": {
+          "common": "Cambodia",
+          "official": "Kingdom of Cambodia"
+        },
+        "codes": {
+          "alpha_2": "KH",
+          "alpha_3": "KHM"
+        },
+        "capitals": [
+          {
+            "name": "Phnom Penh"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇭",
+          "url_png": "https://flags.restcountries.com/v5/w160/kh.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/kh.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 181035,
+          "miles": 69898
+        },
+        "currencies": [
+          {
+            "code": "KHR",
+            "name": "Cambodian riel",
+            "symbol": "៛"
+          },
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Khmer"
+          }
+        ],
+        "population": 17638801,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188693
+        }
+      },
+      {
+        "names": {
+          "common": "Cameroon",
+          "official": "Republic of Cameroon"
+        },
+        "codes": {
+          "alpha_2": "CM",
+          "alpha_3": "CMR"
+        },
+        "capitals": [
+          {
+            "name": "Yaoundé"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/cm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cm.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 475442,
+          "miles": 183569.1
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "French"
+          }
+        ],
+        "population": 30987821,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188691
+        }
+      },
+      {
+        "names": {
+          "common": "Canada",
+          "official": "Canada"
+        },
+        "codes": {
+          "alpha_2": "CA",
+          "alpha_3": "CAN"
+        },
+        "capitals": [
+          {
+            "name": "Ottawa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇦",
+          "url_png": "https://flags.restcountries.com/v5/w160/ca.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ca.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 9984670,
+          "miles": 3855101.1
+        },
+        "currencies": [
+          {
+            "code": "CAD",
+            "name": "Canadian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "French"
+          }
+        ],
+        "population": 41575585,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153197
+        }
+      },
+      {
+        "names": {
+          "common": "Caribbean Netherlands",
+          "official": "Bonaire, Sint Eustatius and Saba"
+        },
+        "codes": {
+          "alpha_2": "BQ",
+          "alpha_3": "BES"
+        },
+        "capitals": [
+          {
+            "name": "Kralendijk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇶",
+          "url_png": "https://flags.restcountries.com/v5/w160/bq.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bq.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 328,
+          "miles": 126.6
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "Dutch"
+          },
+          {
+            "name": "Papiamento"
+          }
+        ],
+        "population": 31980,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144049
+        }
+      },
+      {
+        "names": {
+          "common": "Cayman Islands",
+          "official": "Cayman Islands"
+        },
+        "codes": {
+          "alpha_2": "KY",
+          "alpha_3": "CYM"
+        },
+        "capitals": [
+          {
+            "name": "George Town"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇾",
+          "url_png": "https://flags.restcountries.com/v5/w160/ky.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ky.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 264,
+          "miles": 101.9
+        },
+        "currencies": [
+          {
+            "code": "KYD",
+            "name": "Cayman Islands dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 90577,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159969
+        }
+      },
+      {
+        "names": {
+          "common": "Central African Republic",
+          "official": "Central African Republic"
+        },
+        "codes": {
+          "alpha_2": "CF",
+          "alpha_3": "CAF"
+        },
+        "capitals": [
+          {
+            "name": "Bangui"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/cf.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cf.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 622984,
+          "miles": 240535.4
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Sango"
+          }
+        ],
+        "population": 5513282,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781154825
+        }
+      },
+      {
+        "names": {
+          "common": "Chad",
+          "official": "Republic of Chad"
+        },
+        "codes": {
+          "alpha_2": "TD",
+          "alpha_3": "TCD"
+        },
+        "capitals": [
+          {
+            "name": "N'Djamena"
+          }
+        ],
+        "flag": {
+          "emoji": "🇹🇩",
+          "url_png": "https://flags.restcountries.com/v5/w160/td.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/td.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 1284000,
+          "miles": 495755
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          },
+          {
+            "name": "French"
+          }
+        ],
+        "population": 19093595,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188691
+        }
+      },
+      {
+        "names": {
+          "common": "Chile",
+          "official": "Republic of Chile"
+        },
+        "codes": {
+          "alpha_2": "CL",
+          "alpha_3": "CHL"
+        },
+        "capitals": [
+          {
+            "name": "Santiago"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇱",
+          "url_png": "https://flags.restcountries.com/v5/w160/cl.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cl.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 756102,
+          "miles": 291932.5
+        },
+        "currencies": [
+          {
+            "code": "CLP",
+            "name": "Chilean peso",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 19629588,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "China",
+          "official": "People's Republic of China"
+        },
+        "codes": {
+          "alpha_2": "CN",
+          "alpha_3": "CHN"
+        },
+        "capitals": [
+          {
+            "name": "Beijing"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇳",
+          "url_png": "https://flags.restcountries.com/v5/w160/cn.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cn.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 9706961,
+          "miles": 3747877.1
+        },
+        "currencies": [
+          {
+            "code": "CNY",
+            "name": "Chinese yuan",
+            "symbol": "¥"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Chinese"
+          }
+        ],
+        "population": 1404890000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159323
+        }
+      },
+      {
+        "names": {
+          "common": "Christmas Island",
+          "official": "Territory of Christmas Island"
+        },
+        "codes": {
+          "alpha_2": "CX",
+          "alpha_3": "CXR"
+        },
+        "capitals": [
+          {
+            "name": "Flying Fish Cove"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇽",
+          "url_png": "https://flags.restcountries.com/v5/w160/cx.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cx.svg"
         },
         "region": "Oceania",
         "area": {
-          "kilometers": 12,
-          "miles": 4.6
+          "kilometers": 135,
+          "miles": 52.1
         },
         "currencies": [
+          {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 1692,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781196585
+        }
+      },
+      {
+        "names": {
+          "common": "Cocos (Keeling) Islands",
+          "official": "Territory of the Cocos (Keeling) Islands"
+        },
+        "codes": {
+          "alpha_2": "CC",
+          "alpha_3": "CCK"
+        },
+        "capitals": [
+          {
+            "name": "West Island"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇨",
+          "url_png": "https://flags.restcountries.com/v5/w160/cc.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cc.svg"
+        },
+        "region": "Oceania",
+        "area": {
+          "kilometers": 14,
+          "miles": 5.4
+        },
+        "currencies": [
+          {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 593,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781156289
+        }
+      },
+      {
+        "names": {
+          "common": "Colombia",
+          "official": "Republic of Colombia"
+        },
+        "codes": {
+          "alpha_2": "CO",
+          "alpha_3": "COL"
+        },
+        "capitals": [
+          {
+            "name": "Bogotá"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/co.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/co.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 1141748,
+          "miles": 440831.2
+        },
+        "currencies": [
+          {
+            "code": "COP",
+            "name": "Colombian peso",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 52695952,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781163806
+        }
+      },
+      {
+        "names": {
+          "common": "Comoros",
+          "official": "Union of the Comoros"
+        },
+        "codes": {
+          "alpha_2": "KM",
+          "alpha_3": "COM"
+        },
+        "capitals": [
+          {
+            "name": "Moroni"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/km.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/km.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 1862,
+          "miles": 718.9
+        },
+        "currencies": [
+          {
+            "code": "KMF",
+            "name": "Comorian franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          },
+          {
+            "name": "French"
+          },
+          {
+            "name": "Ngazidja Comorian"
+          }
+        ],
+        "population": 944388,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Congo",
+          "official": "Republic of the Congo"
+        },
+        "codes": {
+          "alpha_2": "CG",
+          "alpha_3": "COG"
+        },
+        "capitals": [
+          {
+            "name": "Brazzaville"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/cg.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cg.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 342000,
+          "miles": 132046.9
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Kongo"
+          },
+          {
+            "name": "Lingala"
+          }
+        ],
+        "population": 6228784,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781148444
+        }
+      },
+      {
+        "names": {
+          "common": "Cook Islands",
+          "official": "Cook Islands"
+        },
+        "codes": {
+          "alpha_2": "CK",
+          "alpha_3": "COK"
+        },
+        "capitals": [
+          {
+            "name": "Avarua"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇰",
+          "url_png": "https://flags.restcountries.com/v5/w160/ck.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ck.svg"
+        },
+        "region": "Oceania",
+        "area": {
+          "kilometers": 236,
+          "miles": 91.1
+        },
+        "currencies": [
+          {
+            "code": "CKD",
+            "name": "Cook Islands dollar",
+            "symbol": "$"
+          },
           {
             "code": "NZD",
             "name": "New Zealand dollar",
@@ -1215,618 +2257,43 @@
             "name": "English"
           },
           {
-            "name": "Samoan"
-          },
-          {
-            "name": "Tokelauan"
+            "name": "Cook Islands Maori"
           }
         ],
-        "population": 1411,
+        "population": 15040,
         "_meta": {
-          "lastUpdatedTimestamp": 1781188691
+          "lastUpdatedTimestamp": 1781155412
         }
       },
       {
         "names": {
-          "common": "Tonga"
+          "common": "Costa Rica",
+          "official": "Republic of Costa Rica"
         },
         "codes": {
-          "alpha_2": "TO",
-          "alpha_3": "TON"
+          "alpha_2": "CR",
+          "alpha_3": "CRI"
         },
         "capitals": [
           {
-            "name": "Nuku'alofa"
+            "name": "San José"
           }
         ],
         "flag": {
-          "emoji": "🇹🇴",
-          "url_png": "https://flags.restcountries.com/v5/w160/to.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/to.svg"
-        },
-        "region": "Oceania",
-        "area": {
-          "kilometers": 747,
-          "miles": 288.4
-        },
-        "currencies": [
-          {
-            "code": "TOP",
-            "name": "Tongan paʻanga",
-            "symbol": "T$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "Tongan"
-          }
-        ],
-        "population": 100179,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781157030
-        }
-      },
-      {
-        "names": {
-          "common": "Trinidad and Tobago"
-        },
-        "codes": {
-          "alpha_2": "TT",
-          "alpha_3": "TTO"
-        },
-        "capitals": [
-          {
-            "name": "Port of Spain"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇹",
-          "url_png": "https://flags.restcountries.com/v5/w160/tt.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tt.svg"
+          "emoji": "🇨🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/cr.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cr.svg"
         },
         "region": "Americas",
         "area": {
-          "kilometers": 5130,
-          "miles": 1980.7
+          "kilometers": 51100,
+          "miles": 19729.8
         },
         "currencies": [
           {
-            "code": "TTD",
-            "name": "Trinidad and Tobago dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 1512779,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781147340
-        }
-      },
-      {
-        "names": {
-          "common": "Tunisia"
-        },
-        "codes": {
-          "alpha_2": "TN",
-          "alpha_3": "TUN"
-        },
-        "capitals": [
-          {
-            "name": "Tunis"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇳",
-          "url_png": "https://flags.restcountries.com/v5/w160/tn.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tn.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 163610,
-          "miles": 63170.1
-        },
-        "currencies": [
-          {
-            "code": "TND",
-            "name": "Tunisian dinar",
-            "symbol": "د.ت"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Arabic"
-          }
-        ],
-        "population": 11972169,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781154825
-        }
-      },
-      {
-        "names": {
-          "common": "Turkey"
-        },
-        "codes": {
-          "alpha_2": "TR",
-          "alpha_3": "TUR"
-        },
-        "capitals": [
-          {
-            "name": "Ankara"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇷",
-          "url_png": "https://flags.restcountries.com/v5/w160/tr.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tr.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 783562,
-          "miles": 302534.9
-        },
-        "currencies": [
-          {
-            "code": "TRY",
-            "name": "Turkish lira",
-            "symbol": "₺"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Turkish"
-          }
-        ],
-        "population": 86092168,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781188692
-        }
-      },
-      {
-        "names": {
-          "common": "Turkmenistan"
-        },
-        "codes": {
-          "alpha_2": "TM",
-          "alpha_3": "TKM"
-        },
-        "capitals": [
-          {
-            "name": "Ashgabat"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇲",
-          "url_png": "https://flags.restcountries.com/v5/w160/tm.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tm.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 488100,
-          "miles": 188456.4
-        },
-        "currencies": [
-          {
-            "code": "TMT",
-            "name": "Turkmenistan manat",
-            "symbol": "m"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Russian"
-          },
-          {
-            "name": "Turkmen"
-          }
-        ],
-        "population": 7057841,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781153195
-        }
-      },
-      {
-        "names": {
-          "common": "Turks and Caicos Islands"
-        },
-        "codes": {
-          "alpha_2": "TC",
-          "alpha_3": "TCA"
-        },
-        "capitals": [
-          {
-            "name": "Cockburn Town"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇨",
-          "url_png": "https://flags.restcountries.com/v5/w160/tc.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tc.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 948,
-          "miles": 366
-        },
-        "currencies": [
-          {
-            "code": "USD",
-            "name": "United States dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 50828,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781157030
-        }
-      },
-      {
-        "names": {
-          "common": "Tuvalu"
-        },
-        "codes": {
-          "alpha_2": "TV",
-          "alpha_3": "TUV"
-        },
-        "capitals": [
-          {
-            "name": "Funafuti"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇻",
-          "url_png": "https://flags.restcountries.com/v5/w160/tv.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/tv.svg"
-        },
-        "region": "Oceania",
-        "area": {
-          "kilometers": 26,
-          "miles": 10
-        },
-        "currencies": [
-          {
-            "code": "AUD",
-            "name": "Australian dollar",
-            "symbol": "$"
-          },
-          {
-            "code": "TVD",
-            "name": "Tuvaluan dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "Tuvaluan"
-          }
-        ],
-        "population": 10643,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781143108
-        }
-      },
-      {
-        "names": {
-          "common": "Uganda"
-        },
-        "codes": {
-          "alpha_2": "UG",
-          "alpha_3": "UGA"
-        },
-        "capitals": [
-          {
-            "name": "Kampala"
-          }
-        ],
-        "flag": {
-          "emoji": "🇺🇬",
-          "url_png": "https://flags.restcountries.com/v5/w160/ug.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ug.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 241550,
-          "miles": 93262.9
-        },
-        "currencies": [
-          {
-            "code": "UGX",
-            "name": "Ugandan shilling",
-            "symbol": "Sh"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          },
-          {
-            "name": "Swahili"
-          }
-        ],
-        "population": 45905417,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781147339
-        }
-      },
-      {
-        "names": {
-          "common": "Ukraine"
-        },
-        "codes": {
-          "alpha_2": "UA",
-          "alpha_3": "UKR"
-        },
-        "capitals": [
-          {
-            "name": "Kyiv"
-          }
-        ],
-        "flag": {
-          "emoji": "🇺🇦",
-          "url_png": "https://flags.restcountries.com/v5/w160/ua.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ua.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 603500,
-          "miles": 233012.6
-        },
-        "currencies": [
-          {
-            "code": "UAH",
-            "name": "Ukrainian hryvnia",
-            "symbol": "₴"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Ukrainian"
-          }
-        ],
-        "population": 32283000,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781144050
-        }
-      },
-      {
-        "names": {
-          "common": "United Arab Emirates"
-        },
-        "codes": {
-          "alpha_2": "AE",
-          "alpha_3": "ARE"
-        },
-        "capitals": [
-          {
-            "name": "Abu Dhabi"
-          }
-        ],
-        "flag": {
-          "emoji": "🇦🇪",
-          "url_png": "https://flags.restcountries.com/v5/w160/ae.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ae.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 83600,
-          "miles": 32278.1
-        },
-        "currencies": [
-          {
-            "code": "AED",
-            "name": "United Arab Emirates dirham",
-            "symbol": "د.إ"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Arabic"
-          }
-        ],
-        "population": 11027129,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781153197
-        }
-      },
-      {
-        "names": {
-          "common": "United Kingdom"
-        },
-        "codes": {
-          "alpha_2": "GB",
-          "alpha_3": "GBR"
-        },
-        "capitals": [
-          {
-            "name": "London"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇧",
-          "url_png": "https://flags.restcountries.com/v5/w160/gb.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/gb.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 242900,
-          "miles": 93784.2
-        },
-        "currencies": [
-          {
-            "code": "GBP",
-            "name": "British pound",
-            "symbol": "£"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 66912637,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781144688
-        }
-      },
-      {
-        "names": {
-          "common": "United States"
-        },
-        "codes": {
-          "alpha_2": "US",
-          "alpha_3": "USA"
-        },
-        "capitals": [
-          {
-            "name": "Washington, D.C."
-          }
-        ],
-        "flag": {
-          "emoji": "🇺🇸",
-          "url_png": "https://flags.restcountries.com/v5/w160/us.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/us.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 9372610,
-          "miles": 3618783.5
-        },
-        "currencies": [
-          {
-            "code": "USD",
-            "name": "United States dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 341784857,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781190729
-        }
-      },
-      {
-        "names": {
-          "common": "United States Minor Outlying Islands"
-        },
-        "codes": {
-          "alpha_2": "UM",
-          "alpha_3": "UMI"
-        },
-        "capitals": [],
-        "flag": {
-          "emoji": "🇺🇲",
-          "url_png": "https://flags.restcountries.com/v5/w160/um.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/um.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 34.2,
-          "miles": 13.2
-        },
-        "currencies": [
-          {
-            "code": "USD",
-            "name": "United States dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 300,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781145812
-        }
-      },
-      {
-        "names": {
-          "common": "United States Virgin Islands"
-        },
-        "codes": {
-          "alpha_2": "VI",
-          "alpha_3": "VIR"
-        },
-        "capitals": [
-          {
-            "name": "Charlotte Amalie"
-          }
-        ],
-        "flag": {
-          "emoji": "🇻🇮",
-          "url_png": "https://flags.restcountries.com/v5/w160/vi.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/vi.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 347,
-          "miles": 134
-        },
-        "currencies": [
-          {
-            "code": "USD",
-            "name": "United States dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 87146,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781188694
-        }
-      },
-      {
-        "names": {
-          "common": "Uruguay"
-        },
-        "codes": {
-          "alpha_2": "UY",
-          "alpha_3": "URY"
-        },
-        "capitals": [
-          {
-            "name": "Montevideo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇺🇾",
-          "url_png": "https://flags.restcountries.com/v5/w160/uy.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/uy.svg"
-        },
-        "region": "Americas",
-        "area": {
-          "kilometers": 181034,
-          "miles": 69897.6
-        },
-        "currencies": [
-          {
-            "code": "UYU",
-            "name": "Uruguayan peso",
-            "symbol": "$"
+            "code": "CRC",
+            "name": "Costa Rican colón",
+            "symbol": "₡"
           }
         ],
         "languages": [
@@ -1834,122 +2301,34 @@
             "name": "Spanish"
           }
         ],
-        "population": 3499451,
+        "population": 5160700,
         "_meta": {
-          "lastUpdatedTimestamp": 1781163352
+          "lastUpdatedTimestamp": 1781145811
         }
       },
       {
         "names": {
-          "common": "Uzbekistan"
+          "common": "Croatia",
+          "official": "Republic of Croatia"
         },
         "codes": {
-          "alpha_2": "UZ",
-          "alpha_3": "UZB"
+          "alpha_2": "HR",
+          "alpha_3": "HRV"
         },
         "capitals": [
           {
-            "name": "Tashkent"
+            "name": "Zagreb"
           }
         ],
         "flag": {
-          "emoji": "🇺🇿",
-          "url_png": "https://flags.restcountries.com/v5/w160/uz.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/uz.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 447400,
-          "miles": 172742
-        },
-        "currencies": [
-          {
-            "code": "UZS",
-            "name": "Uzbekistani soʻm",
-            "symbol": "so'm"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Russian"
-          },
-          {
-            "name": "Uzbek"
-          }
-        ],
-        "population": 38236704,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781149212
-        }
-      },
-      {
-        "names": {
-          "common": "Vanuatu"
-        },
-        "codes": {
-          "alpha_2": "VU",
-          "alpha_3": "VUT"
-        },
-        "capitals": [
-          {
-            "name": "Port Vila"
-          }
-        ],
-        "flag": {
-          "emoji": "🇻🇺",
-          "url_png": "https://flags.restcountries.com/v5/w160/vu.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/vu.svg"
-        },
-        "region": "Oceania",
-        "area": {
-          "kilometers": 12189,
-          "miles": 4706.2
-        },
-        "currencies": [
-          {
-            "code": "VUV",
-            "name": "Vanuatu vatu",
-            "symbol": "Vt"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Bislama"
-          },
-          {
-            "name": "English"
-          },
-          {
-            "name": "French"
-          }
-        ],
-        "population": 335908,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781154825
-        }
-      },
-      {
-        "names": {
-          "common": "Vatican City"
-        },
-        "codes": {
-          "alpha_2": "VA",
-          "alpha_3": "VAT"
-        },
-        "capitals": [
-          {
-            "name": "Vatican City"
-          }
-        ],
-        "flag": {
-          "emoji": "🇻🇦",
-          "url_png": "https://flags.restcountries.com/v5/w160/va.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/va.svg"
+          "emoji": "🇭🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/hr.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/hr.svg"
         },
         "region": "Europe",
         "area": {
-          "kilometers": 0.44,
-          "miles": 0.2
+          "kilometers": 56594,
+          "miles": 21851.1
         },
         "currencies": [
           {
@@ -1960,45 +2339,48 @@
         ],
         "languages": [
           {
-            "name": "Italian"
-          },
-          {
-            "name": "Latin"
+            "name": "Croatian"
           }
         ],
-        "population": 882,
+        "population": 3866233,
         "_meta": {
-          "lastUpdatedTimestamp": 1781164999
+          "lastUpdatedTimestamp": 1781153196
         }
       },
       {
         "names": {
-          "common": "Venezuela"
+          "common": "Cuba",
+          "official": "Republic of Cuba"
         },
         "codes": {
-          "alpha_2": "VE",
-          "alpha_3": "VEN"
+          "alpha_2": "CU",
+          "alpha_3": "CUB"
         },
         "capitals": [
           {
-            "name": "Caracas"
+            "name": "Havana"
           }
         ],
         "flag": {
-          "emoji": "🇻🇪",
-          "url_png": "https://flags.restcountries.com/v5/w160/ve.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ve.svg"
+          "emoji": "🇨🇺",
+          "url_png": "https://flags.restcountries.com/v5/w160/cu.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cu.svg"
         },
         "region": "Americas",
         "area": {
-          "kilometers": 916445,
-          "miles": 353841.2
+          "kilometers": 109884,
+          "miles": 42426.4
         },
         "currencies": [
           {
-            "code": "VES",
-            "name": "Venezuelan bolívar soberano",
-            "symbol": "Bs.S."
+            "code": "CUC",
+            "name": "Cuban convertible peso",
+            "symbol": "$"
+          },
+          {
+            "code": "CUP",
+            "name": "Cuban peso",
+            "symbol": "$"
           }
         ],
         "languages": [
@@ -2006,73 +2388,1003 @@
             "name": "Spanish"
           }
         ],
-        "population": 31800000,
+        "population": 9748007,
         "_meta": {
-          "lastUpdatedTimestamp": 1781159969
+          "lastUpdatedTimestamp": 1781153496
         }
       },
       {
         "names": {
-          "common": "Vietnam"
+          "common": "Curaçao",
+          "official": "Country of Curaçao"
         },
         "codes": {
-          "alpha_2": "VN",
-          "alpha_3": "VNM"
+          "alpha_2": "CW",
+          "alpha_3": "CUW"
         },
         "capitals": [
           {
-            "name": "Hanoi"
+            "name": "Willemstad"
           }
         ],
         "flag": {
-          "emoji": "🇻🇳",
-          "url_png": "https://flags.restcountries.com/v5/w160/vn.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/vn.svg"
+          "emoji": "🇨🇼",
+          "url_png": "https://flags.restcountries.com/v5/w160/cw.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cw.svg"
         },
-        "region": "Asia",
+        "region": "Americas",
         "area": {
-          "kilometers": 331212,
-          "miles": 127881.6
+          "kilometers": 444,
+          "miles": 171.4
         },
         "currencies": [
           {
-            "code": "VND",
-            "name": "Vietnamese đồng",
-            "symbol": "₫"
+            "code": "ANG",
+            "name": "Netherlands Antillean guilder",
+            "symbol": "ƒ"
           }
         ],
         "languages": [
           {
-            "name": "Vietnamese"
+            "name": "English"
+          },
+          {
+            "name": "Dutch"
+          },
+          {
+            "name": "Papiamento"
           }
         ],
-        "population": 102300000,
+        "population": 155826,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781164999
+        }
+      },
+      {
+        "names": {
+          "common": "Cyprus",
+          "official": "Republic of Cyprus"
+        },
+        "codes": {
+          "alpha_2": "CY",
+          "alpha_3": "CYP"
+        },
+        "capitals": [
+          {
+            "name": "Nicosia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇾",
+          "url_png": "https://flags.restcountries.com/v5/w160/cy.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cy.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 9251,
+          "miles": 3571.8
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Greek"
+          },
+          {
+            "name": "Turkish"
+          }
+        ],
+        "population": 923272,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "Czechia",
+          "official": "Czech Republic"
+        },
+        "codes": {
+          "alpha_2": "CZ",
+          "alpha_3": "CZE"
+        },
+        "capitals": [
+          {
+            "name": "Prague"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇿",
+          "url_png": "https://flags.restcountries.com/v5/w160/cz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cz.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 78865,
+          "miles": 30449.9
+        },
+        "currencies": [
+          {
+            "code": "CZK",
+            "name": "Czech koruna",
+            "symbol": "Kč"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Czech"
+          },
+          {
+            "name": "Slovak"
+          }
+        ],
+        "population": 10915839,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781140335
+        }
+      },
+      {
+        "names": {
+          "common": "DRC",
+          "official": "Democratic Republic of the Congo"
+        },
+        "codes": {
+          "alpha_2": "CD",
+          "alpha_3": "COD"
+        },
+        "capitals": [
+          {
+            "name": "Kinshasa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇩",
+          "url_png": "https://flags.restcountries.com/v5/w160/cd.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/cd.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 2344858,
+          "miles": 905354.4
+        },
+        "currencies": [
+          {
+            "code": "CDF",
+            "name": "Congolese franc",
+            "symbol": "FC"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Kongo"
+          },
+          {
+            "name": "Lingala"
+          },
+          {
+            "name": "Luba-Lulua"
+          },
+          {
+            "name": "Swahili"
+          }
+        ],
+        "population": 124388160,
         "_meta": {
           "lastUpdatedTimestamp": 1781188691
         }
       },
       {
         "names": {
-          "common": "Wallis and Futuna"
+          "common": "Denmark",
+          "official": "Kingdom of Denmark"
         },
         "codes": {
-          "alpha_2": "WF",
-          "alpha_3": "WLF"
+          "alpha_2": "DK",
+          "alpha_3": "DNK"
         },
         "capitals": [
           {
-            "name": "Mata-Utu"
+            "name": "Copenhagen"
           }
         ],
         "flag": {
-          "emoji": "🇼🇫",
-          "url_png": "https://flags.restcountries.com/v5/w160/wf.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/wf.svg"
+          "emoji": "🇩🇰",
+          "url_png": "https://flags.restcountries.com/v5/w160/dk.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/dk.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 43094,
+          "miles": 16638.7
+        },
+        "currencies": [
+          {
+            "code": "DKK",
+            "name": "Danish krone",
+            "symbol": "kr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Danish"
+          }
+        ],
+        "population": 6001008,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Djibouti",
+          "official": "Republic of Djibouti"
+        },
+        "codes": {
+          "alpha_2": "DJ",
+          "alpha_3": "DJI"
+        },
+        "capitals": [
+          {
+            "name": "Djibouti"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇯",
+          "url_png": "https://flags.restcountries.com/v5/w160/dj.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/dj.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 23200,
+          "miles": 8957.6
+        },
+        "currencies": [
+          {
+            "code": "DJF",
+            "name": "Djiboutian franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          },
+          {
+            "name": "French"
+          }
+        ],
+        "population": 1066809,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781154825
+        }
+      },
+      {
+        "names": {
+          "common": "Dominica",
+          "official": "Commonwealth of Dominica"
+        },
+        "codes": {
+          "alpha_2": "DM",
+          "alpha_3": "DMA"
+        },
+        "capitals": [
+          {
+            "name": "Roseau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/dm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/dm.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 751,
+          "miles": 290
+        },
+        "currencies": [
+          {
+            "code": "XCD",
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 71293,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781140336
+        }
+      },
+      {
+        "names": {
+          "common": "Dominican Republic",
+          "official": "Dominican Republic"
+        },
+        "codes": {
+          "alpha_2": "DO",
+          "alpha_3": "DOM"
+        },
+        "capitals": [
+          {
+            "name": "Santo Domingo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/do.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/do.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 48671,
+          "miles": 18792
+        },
+        "currencies": [
+          {
+            "code": "DOP",
+            "name": "Dominican peso",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 11532151,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153194
+        }
+      },
+      {
+        "names": {
+          "common": "Ecuador",
+          "official": "Republic of Ecuador"
+        },
+        "codes": {
+          "alpha_2": "EC",
+          "alpha_3": "ECU"
+        },
+        "capitals": [
+          {
+            "name": "Quito"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇨",
+          "url_png": "https://flags.restcountries.com/v5/w160/ec.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ec.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 276841,
+          "miles": 106888.9
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 17483326,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "Egypt",
+          "official": "Arab Republic of Egypt"
+        },
+        "codes": {
+          "alpha_2": "EG",
+          "alpha_3": "EGY"
+        },
+        "capitals": [
+          {
+            "name": "Cairo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/eg.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/eg.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 1002450,
+          "miles": 387047.9
+        },
+        "currencies": [
+          {
+            "code": "EGP",
+            "name": "Egyptian pound",
+            "symbol": "£"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          }
+        ],
+        "population": 107868296,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781148444
+        }
+      },
+      {
+        "names": {
+          "common": "El Salvador",
+          "official": "Republic of El Salvador"
+        },
+        "codes": {
+          "alpha_2": "SV",
+          "alpha_3": "SLV"
+        },
+        "capitals": [
+          {
+            "name": "San Salvador"
+          }
+        ],
+        "flag": {
+          "emoji": "🇸🇻",
+          "url_png": "https://flags.restcountries.com/v5/w160/sv.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/sv.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 21041,
+          "miles": 8124
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 6029976,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "Equatorial Guinea",
+          "official": "Republic of Equatorial Guinea"
+        },
+        "codes": {
+          "alpha_2": "GQ",
+          "alpha_3": "GNQ"
+        },
+        "capitals": [
+          {
+            "name": "Malabo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇶",
+          "url_png": "https://flags.restcountries.com/v5/w160/gq.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gq.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 28051,
+          "miles": 10830.5
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Portuguese"
+          },
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 1795834,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Eritrea",
+          "official": "State of Eritrea"
+        },
+        "codes": {
+          "alpha_2": "ER",
+          "alpha_3": "ERI"
+        },
+        "capitals": [
+          {
+            "name": "Asmara"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/er.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/er.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 117600,
+          "miles": 45405.6
+        },
+        "currencies": [
+          {
+            "code": "ERN",
+            "name": "Eritrean nakfa",
+            "symbol": "Nfk"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Arabic"
+          },
+          {
+            "name": "English"
+          },
+          {
+            "name": "Tigrinya"
+          }
+        ],
+        "population": 3500000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188694
+        }
+      },
+      {
+        "names": {
+          "common": "Estonia",
+          "official": "Republic of Estonia"
+        },
+        "codes": {
+          "alpha_2": "EE",
+          "alpha_3": "EST"
+        },
+        "capitals": [
+          {
+            "name": "Tallinn"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇪",
+          "url_png": "https://flags.restcountries.com/v5/w160/ee.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ee.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 45227,
+          "miles": 17462.2
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Estonian"
+          }
+        ],
+        "population": 1362954,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "Eswatini",
+          "official": "Kingdom of Eswatini"
+        },
+        "codes": {
+          "alpha_2": "SZ",
+          "alpha_3": "SWZ"
+        },
+        "capitals": [
+          {
+            "name": "Mbabane"
+          },
+          {
+            "name": "Lobamba"
+          }
+        ],
+        "flag": {
+          "emoji": "🇸🇿",
+          "url_png": "https://flags.restcountries.com/v5/w160/sz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/sz.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 17364,
+          "miles": 6704.3
+        },
+        "currencies": [
+          {
+            "code": "SZL",
+            "name": "Swazi lilangeni",
+            "symbol": "L"
+          },
+          {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "Swazi"
+          }
+        ],
+        "population": 1236126,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781140336
+        }
+      },
+      {
+        "names": {
+          "common": "Ethiopia",
+          "official": "Federal Democratic Republic of Ethiopia"
+        },
+        "codes": {
+          "alpha_2": "ET",
+          "alpha_3": "ETH"
+        },
+        "capitals": [
+          {
+            "name": "Addis Ababa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇹",
+          "url_png": "https://flags.restcountries.com/v5/w160/et.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/et.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 1104300,
+          "miles": 426372.4
+        },
+        "currencies": [
+          {
+            "code": "ETB",
+            "name": "Ethiopian birr",
+            "symbol": "Br"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Amharic"
+          }
+        ],
+        "population": 135500000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144689
+        }
+      },
+      {
+        "names": {
+          "common": "Falkland Islands",
+          "official": "Falkland Islands"
+        },
+        "codes": {
+          "alpha_2": "FK",
+          "alpha_3": "FLK"
+        },
+        "capitals": [
+          {
+            "name": "Stanley"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇰",
+          "url_png": "https://flags.restcountries.com/v5/w160/fk.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/fk.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 12173,
+          "miles": 4700
+        },
+        "currencies": [
+          {
+            "code": "FKP",
+            "name": "Falkland Islands pound",
+            "symbol": "£"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 3662,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781148444
+        }
+      },
+      {
+        "names": {
+          "common": "Faroe Islands",
+          "official": "Faroe Islands"
+        },
+        "codes": {
+          "alpha_2": "FO",
+          "alpha_3": "FRO"
+        },
+        "capitals": [
+          {
+            "name": "Tórshavn"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇴",
+          "url_png": "https://flags.restcountries.com/v5/w160/fo.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/fo.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 1393,
+          "miles": 537.8
+        },
+        "currencies": [
+          {
+            "code": "DKK",
+            "name": "Danish krone",
+            "symbol": "kr"
+          },
+          {
+            "code": "FOK",
+            "name": "Faroese króna",
+            "symbol": "kr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Danish"
+          },
+          {
+            "name": "Faroese"
+          }
+        ],
+        "population": 56210,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144689
+        }
+      },
+      {
+        "names": {
+          "common": "Fiji",
+          "official": "Republic of Fiji"
+        },
+        "codes": {
+          "alpha_2": "FJ",
+          "alpha_3": "FJI"
+        },
+        "capitals": [
+          {
+            "name": "Suva"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇯",
+          "url_png": "https://flags.restcountries.com/v5/w160/fj.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/fj.svg"
         },
         "region": "Oceania",
         "area": {
-          "kilometers": 142,
-          "miles": 54.8
+          "kilometers": 18272,
+          "miles": 7054.9
+        },
+        "currencies": [
+          {
+            "code": "FJD",
+            "name": "Fijian dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "Fijian"
+          },
+          {
+            "name": "Fiji Hindi"
+          }
+        ],
+        "population": 926276,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781145812
+        }
+      },
+      {
+        "names": {
+          "common": "Finland",
+          "official": "Republic of Finland"
+        },
+        "codes": {
+          "alpha_2": "FI",
+          "alpha_3": "FIN"
+        },
+        "capitals": [
+          {
+            "name": "Helsinki"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇮",
+          "url_png": "https://flags.restcountries.com/v5/w160/fi.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/fi.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 338424,
+          "miles": 130666.2
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Finnish"
+          },
+          {
+            "name": "Swedish"
+          }
+        ],
+        "population": 5652881,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153196
+        }
+      },
+      {
+        "names": {
+          "common": "France",
+          "official": "French Republic"
+        },
+        "codes": {
+          "alpha_2": "FR",
+          "alpha_3": "FRA"
+        },
+        "capitals": [
+          {
+            "name": "Paris"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/fr.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/fr.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 551695,
+          "miles": 213010.5
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 69081996,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147339
+        }
+      },
+      {
+        "names": {
+          "common": "French Guiana",
+          "official": "Guiana"
+        },
+        "codes": {
+          "alpha_2": "GF",
+          "alpha_3": "GUF"
+        },
+        "capitals": [
+          {
+            "name": "Cayenne"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/gf.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gf.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 83534,
+          "miles": 32252.6
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 254541,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153194
+        }
+      },
+      {
+        "names": {
+          "common": "French Polynesia",
+          "official": "French Polynesia"
+        },
+        "codes": {
+          "alpha_2": "PF",
+          "alpha_3": "PYF"
+        },
+        "capitals": [
+          {
+            "name": "Papeetē"
+          }
+        ],
+        "flag": {
+          "emoji": "🇵🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/pf.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/pf.svg"
+        },
+        "region": "Oceania",
+        "area": {
+          "kilometers": 4167,
+          "miles": 1608.9
         },
         "currencies": [
           {
@@ -2086,248 +3398,34 @@
             "name": "French"
           }
         ],
-        "population": 11151,
+        "population": 278786,
         "_meta": {
-          "lastUpdatedTimestamp": 1781148444
+          "lastUpdatedTimestamp": 1781144050
         }
       },
       {
         "names": {
-          "common": "Western Sahara"
+          "common": "French Southern and Antarctic Lands",
+          "official": "Territory of the French Southern and Antarctic Lands"
         },
         "codes": {
-          "alpha_2": "EH",
-          "alpha_3": "ESH"
+          "alpha_2": "TF",
+          "alpha_3": "ATF"
         },
         "capitals": [
           {
-            "name": "El Aaiún"
+            "name": "Port-aux-Français"
           }
         ],
         "flag": {
-          "emoji": "🇪🇭",
-          "url_png": "https://flags.restcountries.com/v5/w160/eh.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/eh.svg"
+          "emoji": "🇹🇫",
+          "url_png": "https://flags.restcountries.com/v5/w160/tf.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/tf.svg"
         },
-        "region": "Africa",
+        "region": "Antarctic",
         "area": {
-          "kilometers": 266000,
-          "miles": 102703.1
-        },
-        "currencies": [
-          {
-            "code": "DZD",
-            "name": "Algerian dinar",
-            "symbol": "دج"
-          },
-          {
-            "code": "MAD",
-            "name": "Moroccan dirham",
-            "symbol": "DH"
-          },
-          {
-            "code": "MRU",
-            "name": "Mauritanian ouguiya",
-            "symbol": "UM"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Hassaniya Arabic"
-          },
-          {
-            "name": "Spanish"
-          }
-        ],
-        "population": 510713,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781157030
-        }
-      },
-      {
-        "names": {
-          "common": "Yemen"
-        },
-        "codes": {
-          "alpha_2": "YE",
-          "alpha_3": "YEM"
-        },
-        "capitals": [
-          {
-            "name": "Sana'a"
-          }
-        ],
-        "flag": {
-          "emoji": "🇾🇪",
-          "url_png": "https://flags.restcountries.com/v5/w160/ye.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ye.svg"
-        },
-        "region": "Asia",
-        "area": {
-          "kilometers": 527968,
-          "miles": 203849.5
-        },
-        "currencies": [
-          {
-            "code": "YER",
-            "name": "Yemeni rial",
-            "symbol": "﷼"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Arabic"
-          }
-        ],
-        "population": 32684503,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781153195
-        }
-      },
-      {
-        "names": {
-          "common": "Zambia"
-        },
-        "codes": {
-          "alpha_2": "ZM",
-          "alpha_3": "ZMB"
-        },
-        "capitals": [
-          {
-            "name": "Lusaka"
-          }
-        ],
-        "flag": {
-          "emoji": "🇿🇲",
-          "url_png": "https://flags.restcountries.com/v5/w160/zm.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/zm.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 752612,
-          "miles": 290585
-        },
-        "currencies": [
-          {
-            "code": "ZMW",
-            "name": "Zambian kwacha",
-            "symbol": "ZK"
-          }
-        ],
-        "languages": [
-          {
-            "name": "English"
-          }
-        ],
-        "population": 20216029,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781188693
-        }
-      },
-      {
-        "names": {
-          "common": "Zimbabwe"
-        },
-        "codes": {
-          "alpha_2": "ZW",
-          "alpha_3": "ZWE"
-        },
-        "capitals": [
-          {
-            "name": "Harare"
-          }
-        ],
-        "flag": {
-          "emoji": "🇿🇼",
-          "url_png": "https://flags.restcountries.com/v5/w160/zw.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/zw.svg"
-        },
-        "region": "Africa",
-        "area": {
-          "kilometers": 390757,
-          "miles": 150872.1
-        },
-        "currencies": [
-          {
-            "code": "ZWL",
-            "name": "Zimbabwean dollar",
-            "symbol": "$"
-          }
-        ],
-        "languages": [
-          {
-            "name": "Barwe"
-          },
-          {
-            "name": "English"
-          },
-          {
-            "name": "Kalanga"
-          },
-          {
-            "name": "Khoisan languages"
-          },
-          {
-            "name": "Ndau"
-          },
-          {
-            "name": "Northern Ndebele"
-          },
-          {
-            "name": "Chichewa"
-          },
-          {
-            "name": "Shona"
-          },
-          {
-            "name": "Sotho"
-          },
-          {
-            "name": "Tonga (Zambia)"
-          },
-          {
-            "name": "Tswana"
-          },
-          {
-            "name": "Tsonga"
-          },
-          {
-            "name": "Venda"
-          },
-          {
-            "name": "Xhosa"
-          },
-          {
-            "name": "Zimbabwean Sign Language"
-          }
-        ],
-        "population": 17166852,
-        "_meta": {
-          "lastUpdatedTimestamp": 1781155412
-        }
-      },
-      {
-        "names": {
-          "common": "Åland Islands"
-        },
-        "codes": {
-          "alpha_2": "AX",
-          "alpha_3": "ALA"
-        },
-        "capitals": [
-          {
-            "name": "Mariehamn"
-          }
-        ],
-        "flag": {
-          "emoji": "🇦🇽",
-          "url_png": "https://flags.restcountries.com/v5/w160/ax.png",
-          "url_svg": "https://flags.restcountries.com/v5/svg/ax.svg"
-        },
-        "region": "Europe",
-        "area": {
-          "kilometers": 1580,
-          "miles": 610
+          "kilometers": 7747,
+          "miles": 2991.1
         },
         "currencies": [
           {
@@ -2338,23 +3436,859 @@
         ],
         "languages": [
           {
-            "name": "Swedish"
+            "name": "French"
           }
         ],
-        "population": 30654,
+        "population": 400,
         "_meta": {
-          "lastUpdatedTimestamp": 1781145812
+          "lastUpdatedTimestamp": 1781153196
+        }
+      },
+      {
+        "names": {
+          "common": "Gabon",
+          "official": "Gabonese Republic"
+        },
+        "codes": {
+          "alpha_2": "GA",
+          "alpha_3": "GAB"
+        },
+        "capitals": [
+          {
+            "name": "Libreville"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇦",
+          "url_png": "https://flags.restcountries.com/v5/w160/ga.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ga.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 267668,
+          "miles": 103347.2
+        },
+        "currencies": [
+          {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 2397368,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188694
+        }
+      },
+      {
+        "names": {
+          "common": "Gambia",
+          "official": "Republic of the Gambia"
+        },
+        "codes": {
+          "alpha_2": "GM",
+          "alpha_3": "GMB"
+        },
+        "capitals": [
+          {
+            "name": "Banjul"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/gm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gm.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 10689,
+          "miles": 4127
+        },
+        "currencies": [
+          {
+            "code": "GMD",
+            "name": "dalasi",
+            "symbol": "D"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 2422712,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Georgia",
+          "official": "Georgia"
+        },
+        "codes": {
+          "alpha_2": "GE",
+          "alpha_3": "GEO"
+        },
+        "capitals": [
+          {
+            "name": "Tbilisi"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇪",
+          "url_png": "https://flags.restcountries.com/v5/w160/ge.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ge.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 69700,
+          "miles": 26911.3
+        },
+        "currencies": [
+          {
+            "code": "GEL",
+            "name": "lari",
+            "symbol": "₾"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Georgian"
+          }
+        ],
+        "population": 3657000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153194
+        }
+      },
+      {
+        "names": {
+          "common": "Germany",
+          "official": "Federal Republic of Germany"
+        },
+        "codes": {
+          "alpha_2": "DE",
+          "alpha_3": "DEU"
+        },
+        "capitals": [
+          {
+            "name": "Berlin"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇪",
+          "url_png": "https://flags.restcountries.com/v5/w160/de.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/de.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 357114,
+          "miles": 137882.4
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "German"
+          }
+        ],
+        "population": 83497147,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781161315
+        }
+      },
+      {
+        "names": {
+          "common": "Ghana",
+          "official": "Republic of Ghana"
+        },
+        "codes": {
+          "alpha_2": "GH",
+          "alpha_3": "GHA"
+        },
+        "capitals": [
+          {
+            "name": "Accra"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇭",
+          "url_png": "https://flags.restcountries.com/v5/w160/gh.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gh.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 238533,
+          "miles": 92098.1
+        },
+        "currencies": [
+          {
+            "code": "GHS",
+            "name": "Ghanaian cedi",
+            "symbol": "₵"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 35039451,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781147340
+        }
+      },
+      {
+        "names": {
+          "common": "Gibraltar",
+          "official": "Gibraltar"
+        },
+        "codes": {
+          "alpha_2": "GI",
+          "alpha_3": "GIB"
+        },
+        "capitals": [
+          {
+            "name": "Gibraltar"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇮",
+          "url_png": "https://flags.restcountries.com/v5/w160/gi.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gi.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 6,
+          "miles": 2.3
+        },
+        "currencies": [
+          {
+            "code": "GIP",
+            "name": "Gibraltar pound",
+            "symbol": "£"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 37936,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781202726
+        }
+      },
+      {
+        "names": {
+          "common": "Greece",
+          "official": "Hellenic Republic"
+        },
+        "codes": {
+          "alpha_2": "GR",
+          "alpha_3": "GRC"
+        },
+        "capitals": [
+          {
+            "name": "Athens"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇷",
+          "url_png": "https://flags.restcountries.com/v5/w160/gr.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gr.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 131990,
+          "miles": 50961.6
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Greek"
+          }
+        ],
+        "population": 10718565,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781154825
+        }
+      },
+      {
+        "names": {
+          "common": "Greenland",
+          "official": "Greenland"
+        },
+        "codes": {
+          "alpha_2": "GL",
+          "alpha_3": "GRL"
+        },
+        "capitals": [
+          {
+            "name": "Nuuk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇱",
+          "url_png": "https://flags.restcountries.com/v5/w160/gl.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gl.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 2166086,
+          "miles": 836330.1
+        },
+        "currencies": [
+          {
+            "code": "DKK",
+            "name": "krone",
+            "symbol": "kr."
+          }
+        ],
+        "languages": [
+          {
+            "name": "Greenlandic"
+          }
+        ],
+        "population": 56831,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Grenada",
+          "official": "Grenada"
+        },
+        "codes": {
+          "alpha_2": "GD",
+          "alpha_3": "GRD"
+        },
+        "capitals": [
+          {
+            "name": "St. George's"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇩",
+          "url_png": "https://flags.restcountries.com/v5/w160/gd.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gd.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 344,
+          "miles": 132.8
+        },
+        "currencies": [
+          {
+            "code": "XCD",
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 114621,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781148444
+        }
+      },
+      {
+        "names": {
+          "common": "Guadeloupe",
+          "official": "Guadeloupe"
+        },
+        "codes": {
+          "alpha_2": "GP",
+          "alpha_3": "GLP"
+        },
+        "capitals": [
+          {
+            "name": "Basse-Terre"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇵",
+          "url_png": "https://flags.restcountries.com/v5/w160/gp.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gp.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 1628,
+          "miles": 628.6
+        },
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 400132,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Guam",
+          "official": "Guam"
+        },
+        "codes": {
+          "alpha_2": "GU",
+          "alpha_3": "GUM"
+        },
+        "capitals": [
+          {
+            "name": "Hagåtña"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇺",
+          "url_png": "https://flags.restcountries.com/v5/w160/gu.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gu.svg"
+        },
+        "region": "Oceania",
+        "area": {
+          "kilometers": 549,
+          "miles": 212
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Chamorro"
+          },
+          {
+            "name": "English"
+          },
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 165180,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781144050
+        }
+      },
+      {
+        "names": {
+          "common": "Guatemala",
+          "official": "Republic of Guatemala"
+        },
+        "codes": {
+          "alpha_2": "GT",
+          "alpha_3": "GTM"
+        },
+        "capitals": [
+          {
+            "name": "Guatemala City"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇹",
+          "url_png": "https://flags.restcountries.com/v5/w160/gt.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gt.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 108889,
+          "miles": 42042.3
+        },
+        "currencies": [
+          {
+            "code": "GTQ",
+            "name": "Guatemalan quetzal",
+            "symbol": "Q"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 18636532,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781159969
+        }
+      },
+      {
+        "names": {
+          "common": "Guernsey",
+          "official": "Bailiwick of Guernsey"
+        },
+        "codes": {
+          "alpha_2": "GG",
+          "alpha_3": "GGY"
+        },
+        "capitals": [
+          {
+            "name": "St. Peter Port"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇬",
+          "url_png": "https://flags.restcountries.com/v5/w160/gg.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gg.svg"
+        },
+        "region": "Europe",
+        "area": {
+          "kilometers": 78,
+          "miles": 30.1
+        },
+        "currencies": [
+          {
+            "code": "GBP",
+            "name": "British pound",
+            "symbol": "£"
+          },
+          {
+            "code": "GGP",
+            "name": "Guernsey pound",
+            "symbol": "£"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "French"
+          },
+          {
+            "name": "Norman"
+          }
+        ],
+        "population": 63950,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188692
+        }
+      },
+      {
+        "names": {
+          "common": "Guinea",
+          "official": "Republic of Guinea"
+        },
+        "codes": {
+          "alpha_2": "GN",
+          "alpha_3": "GIN"
+        },
+        "capitals": [
+          {
+            "name": "Conakry"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇳",
+          "url_png": "https://flags.restcountries.com/v5/w160/gn.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gn.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 245857,
+          "miles": 94925.9
+        },
+        "currencies": [
+          {
+            "code": "GNF",
+            "name": "Guinean franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          }
+        ],
+        "population": 13986179,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781188691
+        }
+      },
+      {
+        "names": {
+          "common": "Guinea-Bissau",
+          "official": "Republic of Guinea-Bissau"
+        },
+        "codes": {
+          "alpha_2": "GW",
+          "alpha_3": "GNB"
+        },
+        "capitals": [
+          {
+            "name": "Bissau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇼",
+          "url_png": "https://flags.restcountries.com/v5/w160/gw.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gw.svg"
+        },
+        "region": "Africa",
+        "area": {
+          "kilometers": 36125,
+          "miles": 13947.9
+        },
+        "currencies": [
+          {
+            "code": "XOF",
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Portuguese"
+          },
+          {
+            "name": "Upper Guinea Crioulo"
+          }
+        ],
+        "population": 2080000,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781163806
+        }
+      },
+      {
+        "names": {
+          "common": "Guyana",
+          "official": "Co-operative Republic of Guyana"
+        },
+        "codes": {
+          "alpha_2": "GY",
+          "alpha_3": "GUY"
+        },
+        "capitals": [
+          {
+            "name": "Georgetown"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇾",
+          "url_png": "https://flags.restcountries.com/v5/w160/gy.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/gy.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 214969,
+          "miles": 83000
+        },
+        "currencies": [
+          {
+            "code": "GYD",
+            "name": "Guyanese dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 950986,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153195
+        }
+      },
+      {
+        "names": {
+          "common": "Haiti",
+          "official": "Republic of Haiti"
+        },
+        "codes": {
+          "alpha_2": "HT",
+          "alpha_3": "HTI"
+        },
+        "capitals": [
+          {
+            "name": "Port-au-Prince"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇹",
+          "url_png": "https://flags.restcountries.com/v5/w160/ht.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ht.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 27750,
+          "miles": 10714.3
+        },
+        "currencies": [
+          {
+            "code": "HTG",
+            "name": "Haitian gourde",
+            "symbol": "G"
+          }
+        ],
+        "languages": [
+          {
+            "name": "French"
+          },
+          {
+            "name": "Haitian Creole"
+          }
+        ],
+        "population": 11470261,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153196
+        }
+      },
+      {
+        "names": {
+          "common": "Heard Island and McDonald Islands",
+          "official": "Heard Island and McDonald Islands"
+        },
+        "codes": {
+          "alpha_2": "HM",
+          "alpha_3": "HMD"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇭🇲",
+          "url_png": "https://flags.restcountries.com/v5/w160/hm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/hm.svg"
+        },
+        "region": "Antarctic",
+        "area": {
+          "kilometers": 412,
+          "miles": 159.1
+        },
+        "currencies": [],
+        "languages": [
+          {
+            "name": "English"
+          }
+        ],
+        "population": 0,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781137529
+        }
+      },
+      {
+        "names": {
+          "common": "Honduras",
+          "official": "Republic of Honduras"
+        },
+        "codes": {
+          "alpha_2": "HN",
+          "alpha_3": "HND"
+        },
+        "capitals": [
+          {
+            "name": "Tegucigalpa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇳",
+          "url_png": "https://flags.restcountries.com/v5/w160/hn.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/hn.svg"
+        },
+        "region": "Americas",
+        "area": {
+          "kilometers": 112492,
+          "miles": 43433.4
+        },
+        "currencies": [
+          {
+            "code": "HNL",
+            "name": "Honduran lempira",
+            "symbol": "L"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish"
+          }
+        ],
+        "population": 9571352,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781153196
+        }
+      },
+      {
+        "names": {
+          "common": "Hong Kong",
+          "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+        },
+        "codes": {
+          "alpha_2": "HK",
+          "alpha_3": "HKG"
+        },
+        "capitals": [
+          {
+            "name": "City of Victoria"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇰",
+          "url_png": "https://flags.restcountries.com/v5/w160/hk.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/hk.svg"
+        },
+        "region": "Asia",
+        "area": {
+          "kilometers": 1104,
+          "miles": 426.3
+        },
+        "currencies": [
+          {
+            "code": "HKD",
+            "name": "Hong Kong dollar",
+            "symbol": "$"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English"
+          },
+          {
+            "name": "Chinese"
+          }
+        ],
+        "population": 7498100,
+        "_meta": {
+          "lastUpdatedTimestamp": 1781154825
         }
       }
     ],
     "meta": {
       "total": 254,
-      "count": 54,
+      "count": 100,
       "limit": 100,
-      "offset": 200,
-      "more": false,
-      "request_id": "bfb50c75-5fe1-4baa-9ceb-89c45b4d7895",
-      "duration": 2
+      "offset": 0,
+      "more": true,
+      "request_id": "8426b68f-dd3e-443c-b848-aa29970a4a27",
+      "duration": 240
     }
   }
 }

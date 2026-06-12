@@ -2,7 +2,8 @@
     "countryData": [
         {
             "names": {
-                "common": "Abkhazia"
+                "common": "Abkhazia",
+                "official": "Republic of Abkhazia"
             },
             "codes": {
                 "alpha_2": "",
@@ -45,7 +46,8 @@
         },
         {
             "names": {
-                "common": "Afghanistan"
+                "common": "Afghanistan",
+                "official": "Islamic Republic of Afghanistan"
             },
             "codes": {
                 "alpha_2": "AF",
@@ -91,7 +93,8 @@
         },
         {
             "names": {
-                "common": "Albania"
+                "common": "Albania",
+                "official": "Republic of Albania"
             },
             "codes": {
                 "alpha_2": "AL",
@@ -131,7 +134,8 @@
         },
         {
             "names": {
-                "common": "Algeria"
+                "common": "Algeria",
+                "official": "People's Democratic Republic of Algeria"
             },
             "codes": {
                 "alpha_2": "DZ",
@@ -171,7 +175,8 @@
         },
         {
             "names": {
-                "common": "American Samoa"
+                "common": "American Samoa",
+                "official": "American Samoa"
             },
             "codes": {
                 "alpha_2": "AS",
@@ -214,7 +219,8 @@
         },
         {
             "names": {
-                "common": "Andorra"
+                "common": "Andorra",
+                "official": "Principality of Andorra"
             },
             "codes": {
                 "alpha_2": "AD",
@@ -254,7 +260,8 @@
         },
         {
             "names": {
-                "common": "Angola"
+                "common": "Angola",
+                "official": "Republic of Angola"
             },
             "codes": {
                 "alpha_2": "AO",
@@ -294,7 +301,8 @@
         },
         {
             "names": {
-                "common": "Anguilla"
+                "common": "Anguilla",
+                "official": "Anguilla"
             },
             "codes": {
                 "alpha_2": "AI",
@@ -334,7 +342,8 @@
         },
         {
             "names": {
-                "common": "Antarctica"
+                "common": "Antarctica",
+                "official": "Antarctica"
             },
             "codes": {
                 "alpha_2": "AQ",
@@ -360,7 +369,8 @@
         },
         {
             "names": {
-                "common": "Antigua and Barbuda"
+                "common": "Antigua and Barbuda",
+                "official": "Antigua and Barbuda"
             },
             "codes": {
                 "alpha_2": "AG",
@@ -400,7 +410,8 @@
         },
         {
             "names": {
-                "common": "Argentina"
+                "common": "Argentina",
+                "official": "Argentine Republic"
             },
             "codes": {
                 "alpha_2": "AR",
@@ -443,7 +454,8 @@
         },
         {
             "names": {
-                "common": "Armenia"
+                "common": "Armenia",
+                "official": "Republic of Armenia"
             },
             "codes": {
                 "alpha_2": "AM",
@@ -483,7 +495,8 @@
         },
         {
             "names": {
-                "common": "Aruba"
+                "common": "Aruba",
+                "official": "Aruba"
             },
             "codes": {
                 "alpha_2": "AW",
@@ -526,7 +539,8 @@
         },
         {
             "names": {
-                "common": "Australia"
+                "common": "Australia",
+                "official": "Commonwealth of Australia"
             },
             "codes": {
                 "alpha_2": "AU",
@@ -566,7 +580,8 @@
         },
         {
             "names": {
-                "common": "Austria"
+                "common": "Austria",
+                "official": "Republic of Austria"
             },
             "codes": {
                 "alpha_2": "AT",
@@ -606,7 +621,8 @@
         },
         {
             "names": {
-                "common": "Azerbaijan"
+                "common": "Azerbaijan",
+                "official": "Republic of Azerbaijan"
             },
             "codes": {
                 "alpha_2": "AZ",
@@ -646,7 +662,8 @@
         },
         {
             "names": {
-                "common": "Bahamas"
+                "common": "Bahamas",
+                "official": "Commonwealth of the Bahamas"
             },
             "codes": {
                 "alpha_2": "BS",
@@ -691,7 +708,8 @@
         },
         {
             "names": {
-                "common": "Bahrain"
+                "common": "Bahrain",
+                "official": "Kingdom of Bahrain"
             },
             "codes": {
                 "alpha_2": "BH",
@@ -731,7 +749,8 @@
         },
         {
             "names": {
-                "common": "Bangladesh"
+                "common": "Bangladesh",
+                "official": "People's Republic of Bangladesh"
             },
             "codes": {
                 "alpha_2": "BD",
@@ -771,7 +790,8 @@
         },
         {
             "names": {
-                "common": "Barbados"
+                "common": "Barbados",
+                "official": "Barbados"
             },
             "codes": {
                 "alpha_2": "BB",
@@ -811,7 +831,8 @@
         },
         {
             "names": {
-                "common": "Belarus"
+                "common": "Belarus",
+                "official": "Republic of Belarus"
             },
             "codes": {
                 "alpha_2": "BY",
@@ -854,7 +875,8 @@
         },
         {
             "names": {
-                "common": "Belgium"
+                "common": "Belgium",
+                "official": "Kingdom of Belgium"
             },
             "codes": {
                 "alpha_2": "BE",
@@ -900,7 +922,8 @@
         },
         {
             "names": {
-                "common": "Belize"
+                "common": "Belize",
+                "official": "Belize"
             },
             "codes": {
                 "alpha_2": "BZ",
@@ -946,7 +969,8 @@
         },
         {
             "names": {
-                "common": "Benin"
+                "common": "Benin",
+                "official": "Republic of Benin"
             },
             "codes": {
                 "alpha_2": "BJ",
@@ -986,7 +1010,8 @@
         },
         {
             "names": {
-                "common": "Bermuda"
+                "common": "Bermuda",
+                "official": "Bermuda"
             },
             "codes": {
                 "alpha_2": "BM",
@@ -1026,7 +1051,8 @@
         },
         {
             "names": {
-                "common": "Bhutan"
+                "common": "Bhutan",
+                "official": "Kingdom of Bhutan"
             },
             "codes": {
                 "alpha_2": "BT",
@@ -1071,7 +1097,8 @@
         },
         {
             "names": {
-                "common": "Bolivia"
+                "common": "Bolivia",
+                "official": "Plurinational State of Bolivia"
             },
             "codes": {
                 "alpha_2": "BO",
@@ -1123,7 +1150,8 @@
         },
         {
             "names": {
-                "common": "Bosnia and Herzegovina"
+                "common": "Bosnia and Herzegovina",
+                "official": "Bosnia and Herzegovina"
             },
             "codes": {
                 "alpha_2": "BA",
@@ -1169,7 +1197,8 @@
         },
         {
             "names": {
-                "common": "Botswana"
+                "common": "Botswana",
+                "official": "Republic of Botswana"
             },
             "codes": {
                 "alpha_2": "BW",
@@ -1212,7 +1241,8 @@
         },
         {
             "names": {
-                "common": "Bouvet Island"
+                "common": "Bouvet Island",
+                "official": "Bouvet Island"
             },
             "codes": {
                 "alpha_2": "BV",
@@ -1242,7 +1272,8 @@
         },
         {
             "names": {
-                "common": "Brazil"
+                "common": "Brazil",
+                "official": "Federative Republic of Brazil"
             },
             "codes": {
                 "alpha_2": "BR",
@@ -1282,7 +1313,8 @@
         },
         {
             "names": {
-                "common": "British Indian Ocean Territory"
+                "common": "British Indian Ocean Territory",
+                "official": "British Indian Ocean Territory"
             },
             "codes": {
                 "alpha_2": "IO",
@@ -1322,7 +1354,8 @@
         },
         {
             "names": {
-                "common": "British Virgin Islands"
+                "common": "British Virgin Islands",
+                "official": "Virgin Islands"
             },
             "codes": {
                 "alpha_2": "VG",
@@ -1362,7 +1395,8 @@
         },
         {
             "names": {
-                "common": "Brunei"
+                "common": "Brunei",
+                "official": "Nation of Brunei, the Abode of Peace"
             },
             "codes": {
                 "alpha_2": "BN",
@@ -1407,7 +1441,8 @@
         },
         {
             "names": {
-                "common": "Bulgaria"
+                "common": "Bulgaria",
+                "official": "Republic of Bulgaria"
             },
             "codes": {
                 "alpha_2": "BG",
@@ -1447,7 +1482,8 @@
         },
         {
             "names": {
-                "common": "Burkina Faso"
+                "common": "Burkina Faso",
+                "official": "Burkina Faso"
             },
             "codes": {
                 "alpha_2": "BF",
@@ -1487,7 +1523,8 @@
         },
         {
             "names": {
-                "common": "Burundi"
+                "common": "Burundi",
+                "official": "Republic of Burundi"
             },
             "codes": {
                 "alpha_2": "BI",
@@ -1530,7 +1567,8 @@
         },
         {
             "names": {
-                "common": "Cabo Verde"
+                "common": "Cabo Verde",
+                "official": "Republic of Cabo Verde"
             },
             "codes": {
                 "alpha_2": "CV",
@@ -1570,7 +1608,8 @@
         },
         {
             "names": {
-                "common": "Cambodia"
+                "common": "Cambodia",
+                "official": "Kingdom of Cambodia"
             },
             "codes": {
                 "alpha_2": "KH",
@@ -1615,7 +1654,8 @@
         },
         {
             "names": {
-                "common": "Cameroon"
+                "common": "Cameroon",
+                "official": "Republic of Cameroon"
             },
             "codes": {
                 "alpha_2": "CM",
@@ -1658,7 +1698,8 @@
         },
         {
             "names": {
-                "common": "Canada"
+                "common": "Canada",
+                "official": "Canada"
             },
             "codes": {
                 "alpha_2": "CA",
@@ -1701,7 +1742,8 @@
         },
         {
             "names": {
-                "common": "Caribbean Netherlands"
+                "common": "Caribbean Netherlands",
+                "official": "Bonaire, Sint Eustatius and Saba"
             },
             "codes": {
                 "alpha_2": "BQ",
@@ -1747,7 +1789,8 @@
         },
         {
             "names": {
-                "common": "Cayman Islands"
+                "common": "Cayman Islands",
+                "official": "Cayman Islands"
             },
             "codes": {
                 "alpha_2": "KY",
@@ -1787,7 +1830,8 @@
         },
         {
             "names": {
-                "common": "Central African Republic"
+                "common": "Central African Republic",
+                "official": "Central African Republic"
             },
             "codes": {
                 "alpha_2": "CF",
@@ -1830,7 +1874,8 @@
         },
         {
             "names": {
-                "common": "Chad"
+                "common": "Chad",
+                "official": "Republic of Chad"
             },
             "codes": {
                 "alpha_2": "TD",
@@ -1873,7 +1918,8 @@
         },
         {
             "names": {
-                "common": "Chile"
+                "common": "Chile",
+                "official": "Republic of Chile"
             },
             "codes": {
                 "alpha_2": "CL",
@@ -1913,7 +1959,8 @@
         },
         {
             "names": {
-                "common": "China"
+                "common": "China",
+                "official": "People's Republic of China"
             },
             "codes": {
                 "alpha_2": "CN",
@@ -1953,7 +2000,8 @@
         },
         {
             "names": {
-                "common": "Christmas Island"
+                "common": "Christmas Island",
+                "official": "Territory of Christmas Island"
             },
             "codes": {
                 "alpha_2": "CX",
@@ -1993,7 +2041,8 @@
         },
         {
             "names": {
-                "common": "Cocos (Keeling) Islands"
+                "common": "Cocos (Keeling) Islands",
+                "official": "Territory of the Cocos (Keeling) Islands"
             },
             "codes": {
                 "alpha_2": "CC",
@@ -2033,7 +2082,8 @@
         },
         {
             "names": {
-                "common": "Colombia"
+                "common": "Colombia",
+                "official": "Republic of Colombia"
             },
             "codes": {
                 "alpha_2": "CO",
@@ -2073,7 +2123,8 @@
         },
         {
             "names": {
-                "common": "Comoros"
+                "common": "Comoros",
+                "official": "Union of the Comoros"
             },
             "codes": {
                 "alpha_2": "KM",
@@ -2119,7 +2170,8 @@
         },
         {
             "names": {
-                "common": "Congo"
+                "common": "Congo",
+                "official": "Republic of the Congo"
             },
             "codes": {
                 "alpha_2": "CG",
@@ -2165,7 +2217,8 @@
         },
         {
             "names": {
-                "common": "Cook Islands"
+                "common": "Cook Islands",
+                "official": "Cook Islands"
             },
             "codes": {
                 "alpha_2": "CK",
@@ -2213,7 +2266,8 @@
         },
         {
             "names": {
-                "common": "Costa Rica"
+                "common": "Costa Rica",
+                "official": "Republic of Costa Rica"
             },
             "codes": {
                 "alpha_2": "CR",
@@ -2253,7 +2307,8 @@
         },
         {
             "names": {
-                "common": "Croatia"
+                "common": "Croatia",
+                "official": "Republic of Croatia"
             },
             "codes": {
                 "alpha_2": "HR",
@@ -2293,7 +2348,8 @@
         },
         {
             "names": {
-                "common": "Cuba"
+                "common": "Cuba",
+                "official": "Republic of Cuba"
             },
             "codes": {
                 "alpha_2": "CU",
@@ -2338,7 +2394,8 @@
         },
         {
             "names": {
-                "common": "Curaçao"
+                "common": "Curaçao",
+                "official": "Country of Curaçao"
             },
             "codes": {
                 "alpha_2": "CW",
@@ -2384,7 +2441,8 @@
         },
         {
             "names": {
-                "common": "Cyprus"
+                "common": "Cyprus",
+                "official": "Republic of Cyprus"
             },
             "codes": {
                 "alpha_2": "CY",
@@ -2427,7 +2485,8 @@
         },
         {
             "names": {
-                "common": "Czechia"
+                "common": "Czechia",
+                "official": "Czech Republic"
             },
             "codes": {
                 "alpha_2": "CZ",
@@ -2470,7 +2529,8 @@
         },
         {
             "names": {
-                "common": "DRC"
+                "common": "DRC",
+                "official": "Democratic Republic of the Congo"
             },
             "codes": {
                 "alpha_2": "CD",
@@ -2522,7 +2582,8 @@
         },
         {
             "names": {
-                "common": "Denmark"
+                "common": "Denmark",
+                "official": "Kingdom of Denmark"
             },
             "codes": {
                 "alpha_2": "DK",
@@ -2562,7 +2623,8 @@
         },
         {
             "names": {
-                "common": "Djibouti"
+                "common": "Djibouti",
+                "official": "Republic of Djibouti"
             },
             "codes": {
                 "alpha_2": "DJ",
@@ -2605,7 +2667,8 @@
         },
         {
             "names": {
-                "common": "Dominica"
+                "common": "Dominica",
+                "official": "Commonwealth of Dominica"
             },
             "codes": {
                 "alpha_2": "DM",
@@ -2645,7 +2708,8 @@
         },
         {
             "names": {
-                "common": "Dominican Republic"
+                "common": "Dominican Republic",
+                "official": "Dominican Republic"
             },
             "codes": {
                 "alpha_2": "DO",
@@ -2685,7 +2749,8 @@
         },
         {
             "names": {
-                "common": "Ecuador"
+                "common": "Ecuador",
+                "official": "Republic of Ecuador"
             },
             "codes": {
                 "alpha_2": "EC",
@@ -2725,7 +2790,8 @@
         },
         {
             "names": {
-                "common": "Egypt"
+                "common": "Egypt",
+                "official": "Arab Republic of Egypt"
             },
             "codes": {
                 "alpha_2": "EG",
@@ -2765,7 +2831,8 @@
         },
         {
             "names": {
-                "common": "El Salvador"
+                "common": "El Salvador",
+                "official": "Republic of El Salvador"
             },
             "codes": {
                 "alpha_2": "SV",
@@ -2805,7 +2872,8 @@
         },
         {
             "names": {
-                "common": "Equatorial Guinea"
+                "common": "Equatorial Guinea",
+                "official": "Republic of Equatorial Guinea"
             },
             "codes": {
                 "alpha_2": "GQ",
@@ -2851,7 +2919,8 @@
         },
         {
             "names": {
-                "common": "Eritrea"
+                "common": "Eritrea",
+                "official": "State of Eritrea"
             },
             "codes": {
                 "alpha_2": "ER",
@@ -2897,7 +2966,8 @@
         },
         {
             "names": {
-                "common": "Estonia"
+                "common": "Estonia",
+                "official": "Republic of Estonia"
             },
             "codes": {
                 "alpha_2": "EE",
@@ -2937,7 +3007,8 @@
         },
         {
             "names": {
-                "common": "Eswatini"
+                "common": "Eswatini",
+                "official": "Kingdom of Eswatini"
             },
             "codes": {
                 "alpha_2": "SZ",
@@ -2988,7 +3059,8 @@
         },
         {
             "names": {
-                "common": "Ethiopia"
+                "common": "Ethiopia",
+                "official": "Federal Democratic Republic of Ethiopia"
             },
             "codes": {
                 "alpha_2": "ET",
@@ -3028,7 +3100,8 @@
         },
         {
             "names": {
-                "common": "Falkland Islands"
+                "common": "Falkland Islands",
+                "official": "Falkland Islands"
             },
             "codes": {
                 "alpha_2": "FK",
@@ -3068,7 +3141,8 @@
         },
         {
             "names": {
-                "common": "Faroe Islands"
+                "common": "Faroe Islands",
+                "official": "Faroe Islands"
             },
             "codes": {
                 "alpha_2": "FO",
@@ -3116,7 +3190,8 @@
         },
         {
             "names": {
-                "common": "Fiji"
+                "common": "Fiji",
+                "official": "Republic of Fiji"
             },
             "codes": {
                 "alpha_2": "FJ",
@@ -3162,7 +3237,8 @@
         },
         {
             "names": {
-                "common": "Finland"
+                "common": "Finland",
+                "official": "Republic of Finland"
             },
             "codes": {
                 "alpha_2": "FI",
@@ -3205,7 +3281,8 @@
         },
         {
             "names": {
-                "common": "France"
+                "common": "France",
+                "official": "French Republic"
             },
             "codes": {
                 "alpha_2": "FR",
@@ -3245,7 +3322,8 @@
         },
         {
             "names": {
-                "common": "French Guiana"
+                "common": "French Guiana",
+                "official": "Guiana"
             },
             "codes": {
                 "alpha_2": "GF",
@@ -3285,7 +3363,8 @@
         },
         {
             "names": {
-                "common": "French Polynesia"
+                "common": "French Polynesia",
+                "official": "French Polynesia"
             },
             "codes": {
                 "alpha_2": "PF",
@@ -3325,7 +3404,8 @@
         },
         {
             "names": {
-                "common": "French Southern and Antarctic Lands"
+                "common": "French Southern and Antarctic Lands",
+                "official": "Territory of the French Southern and Antarctic Lands"
             },
             "codes": {
                 "alpha_2": "TF",
@@ -3365,7 +3445,8 @@
         },
         {
             "names": {
-                "common": "Gabon"
+                "common": "Gabon",
+                "official": "Gabonese Republic"
             },
             "codes": {
                 "alpha_2": "GA",
@@ -3405,7 +3486,8 @@
         },
         {
             "names": {
-                "common": "Gambia"
+                "common": "Gambia",
+                "official": "Republic of the Gambia"
             },
             "codes": {
                 "alpha_2": "GM",
@@ -3445,7 +3527,8 @@
         },
         {
             "names": {
-                "common": "Georgia"
+                "common": "Georgia",
+                "official": "Georgia"
             },
             "codes": {
                 "alpha_2": "GE",
@@ -3485,7 +3568,8 @@
         },
         {
             "names": {
-                "common": "Germany"
+                "common": "Germany",
+                "official": "Federal Republic of Germany"
             },
             "codes": {
                 "alpha_2": "DE",
@@ -3525,7 +3609,8 @@
         },
         {
             "names": {
-                "common": "Ghana"
+                "common": "Ghana",
+                "official": "Republic of Ghana"
             },
             "codes": {
                 "alpha_2": "GH",
@@ -3565,7 +3650,8 @@
         },
         {
             "names": {
-                "common": "Gibraltar"
+                "common": "Gibraltar",
+                "official": "Gibraltar"
             },
             "codes": {
                 "alpha_2": "GI",
@@ -3605,7 +3691,8 @@
         },
         {
             "names": {
-                "common": "Greece"
+                "common": "Greece",
+                "official": "Hellenic Republic"
             },
             "codes": {
                 "alpha_2": "GR",
@@ -3645,7 +3732,8 @@
         },
         {
             "names": {
-                "common": "Greenland"
+                "common": "Greenland",
+                "official": "Greenland"
             },
             "codes": {
                 "alpha_2": "GL",
@@ -3685,7 +3773,8 @@
         },
         {
             "names": {
-                "common": "Grenada"
+                "common": "Grenada",
+                "official": "Grenada"
             },
             "codes": {
                 "alpha_2": "GD",
@@ -3725,7 +3814,8 @@
         },
         {
             "names": {
-                "common": "Guadeloupe"
+                "common": "Guadeloupe",
+                "official": "Guadeloupe"
             },
             "codes": {
                 "alpha_2": "GP",
@@ -3765,7 +3855,8 @@
         },
         {
             "names": {
-                "common": "Guam"
+                "common": "Guam",
+                "official": "Guam"
             },
             "codes": {
                 "alpha_2": "GU",
@@ -3811,7 +3902,8 @@
         },
         {
             "names": {
-                "common": "Guatemala"
+                "common": "Guatemala",
+                "official": "Republic of Guatemala"
             },
             "codes": {
                 "alpha_2": "GT",
@@ -3851,7 +3943,8 @@
         },
         {
             "names": {
-                "common": "Guernsey"
+                "common": "Guernsey",
+                "official": "Bailiwick of Guernsey"
             },
             "codes": {
                 "alpha_2": "GG",
@@ -3902,7 +3995,8 @@
         },
         {
             "names": {
-                "common": "Guinea"
+                "common": "Guinea",
+                "official": "Republic of Guinea"
             },
             "codes": {
                 "alpha_2": "GN",
@@ -3942,7 +4036,8 @@
         },
         {
             "names": {
-                "common": "Guinea-Bissau"
+                "common": "Guinea-Bissau",
+                "official": "Republic of Guinea-Bissau"
             },
             "codes": {
                 "alpha_2": "GW",
@@ -3985,7 +4080,8 @@
         },
         {
             "names": {
-                "common": "Guyana"
+                "common": "Guyana",
+                "official": "Co-operative Republic of Guyana"
             },
             "codes": {
                 "alpha_2": "GY",
@@ -4025,7 +4121,8 @@
         },
         {
             "names": {
-                "common": "Haiti"
+                "common": "Haiti",
+                "official": "Republic of Haiti"
             },
             "codes": {
                 "alpha_2": "HT",
@@ -4068,7 +4165,8 @@
         },
         {
             "names": {
-                "common": "Heard Island and McDonald Islands"
+                "common": "Heard Island and McDonald Islands",
+                "official": "Heard Island and McDonald Islands"
             },
             "codes": {
                 "alpha_2": "HM",
@@ -4098,7 +4196,8 @@
         },
         {
             "names": {
-                "common": "Honduras"
+                "common": "Honduras",
+                "official": "Republic of Honduras"
             },
             "codes": {
                 "alpha_2": "HN",
@@ -4138,7 +4237,8 @@
         },
         {
             "names": {
-                "common": "Hong Kong"
+                "common": "Hong Kong",
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China"
             },
             "codes": {
                 "alpha_2": "HK",
@@ -4181,7 +4281,8 @@
         },
         {
             "names": {
-                "common": "Hungary"
+                "common": "Hungary",
+                "official": "Hungary"
             },
             "codes": {
                 "alpha_2": "HU",
@@ -4221,7 +4322,8 @@
         },
         {
             "names": {
-                "common": "Iceland"
+                "common": "Iceland",
+                "official": "Iceland"
             },
             "codes": {
                 "alpha_2": "IS",
@@ -4261,7 +4363,8 @@
         },
         {
             "names": {
-                "common": "India"
+                "common": "India",
+                "official": "Republic of India"
             },
             "codes": {
                 "alpha_2": "IN",
@@ -4307,7 +4410,8 @@
         },
         {
             "names": {
-                "common": "Indonesia"
+                "common": "Indonesia",
+                "official": "Republic of Indonesia"
             },
             "codes": {
                 "alpha_2": "ID",
@@ -4347,7 +4451,8 @@
         },
         {
             "names": {
-                "common": "Iran"
+                "common": "Iran",
+                "official": "Islamic Republic of Iran"
             },
             "codes": {
                 "alpha_2": "IR",
@@ -4387,7 +4492,8 @@
         },
         {
             "names": {
-                "common": "Iraq"
+                "common": "Iraq",
+                "official": "Republic of Iraq"
             },
             "codes": {
                 "alpha_2": "IQ",
@@ -4433,7 +4539,8 @@
         },
         {
             "names": {
-                "common": "Ireland"
+                "common": "Ireland",
+                "official": "Republic of Ireland"
             },
             "codes": {
                 "alpha_2": "IE",
@@ -4476,7 +4583,8 @@
         },
         {
             "names": {
-                "common": "Isle of Man"
+                "common": "Isle of Man",
+                "official": "Isle of Man"
             },
             "codes": {
                 "alpha_2": "IM",
@@ -4524,7 +4632,8 @@
         },
         {
             "names": {
-                "common": "Israel"
+                "common": "Israel",
+                "official": "State of Israel"
             },
             "codes": {
                 "alpha_2": "IL",
@@ -4567,7 +4676,8 @@
         },
         {
             "names": {
-                "common": "Italy"
+                "common": "Italy",
+                "official": "Italian Republic"
             },
             "codes": {
                 "alpha_2": "IT",
@@ -4610,7 +4720,8 @@
         },
         {
             "names": {
-                "common": "Ivory Coast"
+                "common": "Ivory Coast",
+                "official": "Republic of Côte d'Ivoire"
             },
             "codes": {
                 "alpha_2": "CI",
@@ -4650,7 +4761,8 @@
         },
         {
             "names": {
-                "common": "Jamaica"
+                "common": "Jamaica",
+                "official": "Jamaica"
             },
             "codes": {
                 "alpha_2": "JM",
@@ -4693,7 +4805,8 @@
         },
         {
             "names": {
-                "common": "Japan"
+                "common": "Japan",
+                "official": "Japan"
             },
             "codes": {
                 "alpha_2": "JP",
@@ -4733,7 +4846,8 @@
         },
         {
             "names": {
-                "common": "Jersey"
+                "common": "Jersey",
+                "official": "Bailiwick of Jersey"
             },
             "codes": {
                 "alpha_2": "JE",
@@ -4784,7 +4898,8 @@
         },
         {
             "names": {
-                "common": "Jordan"
+                "common": "Jordan",
+                "official": "Hashemite Kingdom of Jordan"
             },
             "codes": {
                 "alpha_2": "JO",
@@ -4824,7 +4939,8 @@
         },
         {
             "names": {
-                "common": "Kazakhstan"
+                "common": "Kazakhstan",
+                "official": "Republic of Kazakhstan"
             },
             "codes": {
                 "alpha_2": "KZ",
@@ -4867,7 +4983,8 @@
         },
         {
             "names": {
-                "common": "Kenya"
+                "common": "Kenya",
+                "official": "Republic of Kenya"
             },
             "codes": {
                 "alpha_2": "KE",
@@ -4910,7 +5027,8 @@
         },
         {
             "names": {
-                "common": "Kiribati"
+                "common": "Kiribati",
+                "official": "Independent and Sovereign Republic of Kiribati"
             },
             "codes": {
                 "alpha_2": "KI",
@@ -4958,7 +5076,8 @@
         },
         {
             "names": {
-                "common": "Kosovo"
+                "common": "Kosovo",
+                "official": "Republic of Kosovo"
             },
             "codes": {
                 "alpha_2": "XK",
@@ -5001,7 +5120,8 @@
         },
         {
             "names": {
-                "common": "Kuwait"
+                "common": "Kuwait",
+                "official": "State of Kuwait"
             },
             "codes": {
                 "alpha_2": "KW",
@@ -5041,7 +5161,8 @@
         },
         {
             "names": {
-                "common": "Kyrgyzstan"
+                "common": "Kyrgyzstan",
+                "official": "Kyrgyz Republic"
             },
             "codes": {
                 "alpha_2": "KG",
@@ -5084,7 +5205,8 @@
         },
         {
             "names": {
-                "common": "Laos"
+                "common": "Laos",
+                "official": "Lao People's Democratic Republic"
             },
             "codes": {
                 "alpha_2": "LA",
@@ -5124,7 +5246,8 @@
         },
         {
             "names": {
-                "common": "Latvia"
+                "common": "Latvia",
+                "official": "Republic of Latvia"
             },
             "codes": {
                 "alpha_2": "LV",
@@ -5164,7 +5287,8 @@
         },
         {
             "names": {
-                "common": "Lebanon"
+                "common": "Lebanon",
+                "official": "Lebanese Republic"
             },
             "codes": {
                 "alpha_2": "LB",
@@ -5207,7 +5331,8 @@
         },
         {
             "names": {
-                "common": "Lesotho"
+                "common": "Lesotho",
+                "official": "Kingdom of Lesotho"
             },
             "codes": {
                 "alpha_2": "LS",
@@ -5255,7 +5380,8 @@
         },
         {
             "names": {
-                "common": "Liberia"
+                "common": "Liberia",
+                "official": "Republic of Liberia"
             },
             "codes": {
                 "alpha_2": "LR",
@@ -5295,7 +5421,8 @@
         },
         {
             "names": {
-                "common": "Libya"
+                "common": "Libya",
+                "official": "State of Libya"
             },
             "codes": {
                 "alpha_2": "LY",
@@ -5335,7 +5462,8 @@
         },
         {
             "names": {
-                "common": "Liechtenstein"
+                "common": "Liechtenstein",
+                "official": "Principality of Liechtenstein"
             },
             "codes": {
                 "alpha_2": "LI",
@@ -5375,7 +5503,8 @@
         },
         {
             "names": {
-                "common": "Lithuania"
+                "common": "Lithuania",
+                "official": "Republic of Lithuania"
             },
             "codes": {
                 "alpha_2": "LT",
@@ -5415,7 +5544,8 @@
         },
         {
             "names": {
-                "common": "Luxembourg"
+                "common": "Luxembourg",
+                "official": "Grand Duchy of Luxembourg"
             },
             "codes": {
                 "alpha_2": "LU",
@@ -5461,7 +5591,8 @@
         },
         {
             "names": {
-                "common": "Macau"
+                "common": "Macau",
+                "official": "Macao Special Administrative Region of the People's Republic of China"
             },
             "codes": {
                 "alpha_2": "MO",
@@ -5500,7 +5631,8 @@
         },
         {
             "names": {
-                "common": "Madagascar"
+                "common": "Madagascar",
+                "official": "Republic of Madagascar"
             },
             "codes": {
                 "alpha_2": "MG",
@@ -5543,7 +5675,8 @@
         },
         {
             "names": {
-                "common": "Malawi"
+                "common": "Malawi",
+                "official": "Republic of Malawi"
             },
             "codes": {
                 "alpha_2": "MW",
@@ -5586,7 +5719,8 @@
         },
         {
             "names": {
-                "common": "Malaysia"
+                "common": "Malaysia",
+                "official": "Malaysia"
             },
             "codes": {
                 "alpha_2": "MY",
@@ -5629,7 +5763,8 @@
         },
         {
             "names": {
-                "common": "Maldives"
+                "common": "Maldives",
+                "official": "Republic of Maldives"
             },
             "codes": {
                 "alpha_2": "MV",
@@ -5669,7 +5804,8 @@
         },
         {
             "names": {
-                "common": "Mali"
+                "common": "Mali",
+                "official": "Republic of Mali"
             },
             "codes": {
                 "alpha_2": "ML",
@@ -5709,7 +5845,8 @@
         },
         {
             "names": {
-                "common": "Malta"
+                "common": "Malta",
+                "official": "Republic of Malta"
             },
             "codes": {
                 "alpha_2": "MT",
@@ -5752,7 +5889,8 @@
         },
         {
             "names": {
-                "common": "Marshall Islands"
+                "common": "Marshall Islands",
+                "official": "Republic of the Marshall Islands"
             },
             "codes": {
                 "alpha_2": "MH",
@@ -5795,7 +5933,8 @@
         },
         {
             "names": {
-                "common": "Martinique"
+                "common": "Martinique",
+                "official": "Martinique"
             },
             "codes": {
                 "alpha_2": "MQ",
@@ -5835,7 +5974,8 @@
         },
         {
             "names": {
-                "common": "Mauritania"
+                "common": "Mauritania",
+                "official": "Islamic Republic of Mauritania"
             },
             "codes": {
                 "alpha_2": "MR",
@@ -5875,7 +6015,8 @@
         },
         {
             "names": {
-                "common": "Mauritius"
+                "common": "Mauritius",
+                "official": "Republic of Mauritius"
             },
             "codes": {
                 "alpha_2": "MU",
@@ -5921,7 +6062,8 @@
         },
         {
             "names": {
-                "common": "Mayotte"
+                "common": "Mayotte",
+                "official": "Department of Mayotte"
             },
             "codes": {
                 "alpha_2": "YT",
@@ -5961,7 +6103,8 @@
         },
         {
             "names": {
-                "common": "Mexico"
+                "common": "Mexico",
+                "official": "United Mexican States"
             },
             "codes": {
                 "alpha_2": "MX",
@@ -6001,7 +6144,8 @@
         },
         {
             "names": {
-                "common": "Micronesia"
+                "common": "Micronesia",
+                "official": "Federated States of Micronesia"
             },
             "codes": {
                 "alpha_2": "FM",
@@ -6041,7 +6185,8 @@
         },
         {
             "names": {
-                "common": "Moldova"
+                "common": "Moldova",
+                "official": "Republic of Moldova"
             },
             "codes": {
                 "alpha_2": "MD",
@@ -6081,7 +6226,8 @@
         },
         {
             "names": {
-                "common": "Monaco"
+                "common": "Monaco",
+                "official": "Principality of Monaco"
             },
             "codes": {
                 "alpha_2": "MC",
@@ -6121,7 +6267,8 @@
         },
         {
             "names": {
-                "common": "Mongolia"
+                "common": "Mongolia",
+                "official": "Mongolia"
             },
             "codes": {
                 "alpha_2": "MN",
@@ -6161,7 +6308,8 @@
         },
         {
             "names": {
-                "common": "Montenegro"
+                "common": "Montenegro",
+                "official": "Montenegro"
             },
             "codes": {
                 "alpha_2": "ME",
@@ -6201,7 +6349,8 @@
         },
         {
             "names": {
-                "common": "Montserrat"
+                "common": "Montserrat",
+                "official": "Montserrat"
             },
             "codes": {
                 "alpha_2": "MS",
@@ -6241,7 +6390,8 @@
         },
         {
             "names": {
-                "common": "Morocco"
+                "common": "Morocco",
+                "official": "Kingdom of Morocco"
             },
             "codes": {
                 "alpha_2": "MA",
@@ -6284,7 +6434,8 @@
         },
         {
             "names": {
-                "common": "Mozambique"
+                "common": "Mozambique",
+                "official": "Republic of Mozambique"
             },
             "codes": {
                 "alpha_2": "MZ",
@@ -6324,7 +6475,8 @@
         },
         {
             "names": {
-                "common": "Myanmar"
+                "common": "Myanmar",
+                "official": "Republic of the Union of Myanmar"
             },
             "codes": {
                 "alpha_2": "MM",
@@ -6364,7 +6516,8 @@
         },
         {
             "names": {
-                "common": "Namibia"
+                "common": "Namibia",
+                "official": "Republic of Namibia"
             },
             "codes": {
                 "alpha_2": "NA",
@@ -6433,7 +6586,8 @@
         },
         {
             "names": {
-                "common": "Nauru"
+                "common": "Nauru",
+                "official": "Republic of Nauru"
             },
             "codes": {
                 "alpha_2": "NR",
@@ -6476,7 +6630,8 @@
         },
         {
             "names": {
-                "common": "Nepal"
+                "common": "Nepal",
+                "official": "Federal Democratic Republic of Nepal"
             },
             "codes": {
                 "alpha_2": "NP",
@@ -6516,7 +6671,8 @@
         },
         {
             "names": {
-                "common": "Netherlands"
+                "common": "Netherlands",
+                "official": "Kingdom of the Netherlands"
             },
             "codes": {
                 "alpha_2": "NL",
@@ -6556,7 +6712,8 @@
         },
         {
             "names": {
-                "common": "New Caledonia"
+                "common": "New Caledonia",
+                "official": "New Caledonia"
             },
             "codes": {
                 "alpha_2": "NC",
@@ -6596,7 +6753,8 @@
         },
         {
             "names": {
-                "common": "New Zealand"
+                "common": "New Zealand",
+                "official": "New Zealand"
             },
             "codes": {
                 "alpha_2": "NZ",
@@ -6642,7 +6800,8 @@
         },
         {
             "names": {
-                "common": "Nicaragua"
+                "common": "Nicaragua",
+                "official": "Republic of Nicaragua"
             },
             "codes": {
                 "alpha_2": "NI",
@@ -6682,7 +6841,8 @@
         },
         {
             "names": {
-                "common": "Niger"
+                "common": "Niger",
+                "official": "Republic of Niger"
             },
             "codes": {
                 "alpha_2": "NE",
@@ -6722,7 +6882,8 @@
         },
         {
             "names": {
-                "common": "Nigeria"
+                "common": "Nigeria",
+                "official": "Federal Republic of Nigeria"
             },
             "codes": {
                 "alpha_2": "NG",
@@ -6762,7 +6923,8 @@
         },
         {
             "names": {
-                "common": "Niue"
+                "common": "Niue",
+                "official": "Niue"
             },
             "codes": {
                 "alpha_2": "NU",
@@ -6805,7 +6967,8 @@
         },
         {
             "names": {
-                "common": "Norfolk Island"
+                "common": "Norfolk Island",
+                "official": "Territory of Norfolk Island"
             },
             "codes": {
                 "alpha_2": "NF",
@@ -6848,7 +7011,8 @@
         },
         {
             "names": {
-                "common": "North Korea"
+                "common": "North Korea",
+                "official": "Democratic People's Republic of Korea"
             },
             "codes": {
                 "alpha_2": "KP",
@@ -6888,7 +7052,8 @@
         },
         {
             "names": {
-                "common": "North Macedonia"
+                "common": "North Macedonia",
+                "official": "Republic of North Macedonia"
             },
             "codes": {
                 "alpha_2": "MK",
@@ -6928,7 +7093,8 @@
         },
         {
             "names": {
-                "common": "Northern Cyprus"
+                "common": "Northern Cyprus",
+                "official": "Turkish Republic of Northern Cyprus"
             },
             "codes": {
                 "alpha_2": "",
@@ -6968,7 +7134,8 @@
         },
         {
             "names": {
-                "common": "Northern Mariana Islands"
+                "common": "Northern Mariana Islands",
+                "official": "Commonwealth of the Northern Mariana Islands"
             },
             "codes": {
                 "alpha_2": "MP",
@@ -7014,7 +7181,8 @@
         },
         {
             "names": {
-                "common": "Norway"
+                "common": "Norway",
+                "official": "Kingdom of Norway"
             },
             "codes": {
                 "alpha_2": "NO",
@@ -7066,7 +7234,8 @@
         },
         {
             "names": {
-                "common": "Oman"
+                "common": "Oman",
+                "official": "Sultanate of Oman"
             },
             "codes": {
                 "alpha_2": "OM",
@@ -7106,7 +7275,8 @@
         },
         {
             "names": {
-                "common": "Pakistan"
+                "common": "Pakistan",
+                "official": "Islamic Republic of Pakistan"
             },
             "codes": {
                 "alpha_2": "PK",
@@ -7149,7 +7319,8 @@
         },
         {
             "names": {
-                "common": "Palau"
+                "common": "Palau",
+                "official": "Republic of Palau"
             },
             "codes": {
                 "alpha_2": "PW",
@@ -7192,7 +7363,8 @@
         },
         {
             "names": {
-                "common": "Palestine"
+                "common": "Palestine",
+                "official": "State of Palestine"
             },
             "codes": {
                 "alpha_2": "PS",
@@ -7245,7 +7417,8 @@
         },
         {
             "names": {
-                "common": "Panama"
+                "common": "Panama",
+                "official": "Republic of Panama"
             },
             "codes": {
                 "alpha_2": "PA",
@@ -7290,7 +7463,8 @@
         },
         {
             "names": {
-                "common": "Papua New Guinea"
+                "common": "Papua New Guinea",
+                "official": "Independent State of Papua New Guinea"
             },
             "codes": {
                 "alpha_2": "PG",
@@ -7336,7 +7510,8 @@
         },
         {
             "names": {
-                "common": "Paraguay"
+                "common": "Paraguay",
+                "official": "Republic of Paraguay"
             },
             "codes": {
                 "alpha_2": "PY",
@@ -7379,7 +7554,8 @@
         },
         {
             "names": {
-                "common": "Peru"
+                "common": "Peru",
+                "official": "Republic of Peru"
             },
             "codes": {
                 "alpha_2": "PE",
@@ -7425,7 +7601,8 @@
         },
         {
             "names": {
-                "common": "Philippines"
+                "common": "Philippines",
+                "official": "Republic of the Philippines"
             },
             "codes": {
                 "alpha_2": "PH",
@@ -7468,7 +7645,8 @@
         },
         {
             "names": {
-                "common": "Pitcairn Islands"
+                "common": "Pitcairn Islands",
+                "official": "Pitcairn Group of Islands"
             },
             "codes": {
                 "alpha_2": "PN",
@@ -7508,7 +7686,8 @@
         },
         {
             "names": {
-                "common": "Poland"
+                "common": "Poland",
+                "official": "Republic of Poland"
             },
             "codes": {
                 "alpha_2": "PL",
@@ -7548,7 +7727,8 @@
         },
         {
             "names": {
-                "common": "Portugal"
+                "common": "Portugal",
+                "official": "Portuguese Republic"
             },
             "codes": {
                 "alpha_2": "PT",
@@ -7588,7 +7768,8 @@
         },
         {
             "names": {
-                "common": "Puerto Rico"
+                "common": "Puerto Rico",
+                "official": "Commonwealth of Puerto Rico"
             },
             "codes": {
                 "alpha_2": "PR",
@@ -7631,7 +7812,8 @@
         },
         {
             "names": {
-                "common": "Qatar"
+                "common": "Qatar",
+                "official": "State of Qatar"
             },
             "codes": {
                 "alpha_2": "QA",
@@ -7671,7 +7853,8 @@
         },
         {
             "names": {
-                "common": "Romania"
+                "common": "Romania",
+                "official": "Romania"
             },
             "codes": {
                 "alpha_2": "RO",
@@ -7711,7 +7894,8 @@
         },
         {
             "names": {
-                "common": "Russia"
+                "common": "Russia",
+                "official": "Russian Federation"
             },
             "codes": {
                 "alpha_2": "RU",
@@ -7751,7 +7935,8 @@
         },
         {
             "names": {
-                "common": "Rwanda"
+                "common": "Rwanda",
+                "official": "Republic of Rwanda"
             },
             "codes": {
                 "alpha_2": "RW",
@@ -7797,7 +7982,8 @@
         },
         {
             "names": {
-                "common": "Réunion"
+                "common": "Réunion",
+                "official": "Réunion Island"
             },
             "codes": {
                 "alpha_2": "RE",
@@ -7837,7 +8023,8 @@
         },
         {
             "names": {
-                "common": "Saint Barthélemy"
+                "common": "Saint Barthélemy",
+                "official": "Collectivity of Saint Barthélemy"
             },
             "codes": {
                 "alpha_2": "BL",
@@ -7877,7 +8064,8 @@
         },
         {
             "names": {
-                "common": "Saint Helena, Ascension and Tristan da Cunha"
+                "common": "Saint Helena, Ascension and Tristan da Cunha",
+                "official": "Saint Helena, Ascension and Tristan da Cunha"
             },
             "codes": {
                 "alpha_2": "SH",
@@ -7922,7 +8110,8 @@
         },
         {
             "names": {
-                "common": "Saint Kitts and Nevis"
+                "common": "Saint Kitts and Nevis",
+                "official": "Federation of Saint Christopher and Nevis"
             },
             "codes": {
                 "alpha_2": "KN",
@@ -7962,7 +8151,8 @@
         },
         {
             "names": {
-                "common": "Saint Lucia"
+                "common": "Saint Lucia",
+                "official": "Saint Lucia"
             },
             "codes": {
                 "alpha_2": "LC",
@@ -8002,7 +8192,8 @@
         },
         {
             "names": {
-                "common": "Saint Martin"
+                "common": "Saint Martin",
+                "official": "Saint Martin"
             },
             "codes": {
                 "alpha_2": "MF",
@@ -8042,7 +8233,8 @@
         },
         {
             "names": {
-                "common": "Saint Pierre and Miquelon"
+                "common": "Saint Pierre and Miquelon",
+                "official": "Saint Pierre and Miquelon"
             },
             "codes": {
                 "alpha_2": "PM",
@@ -8082,7 +8274,8 @@
         },
         {
             "names": {
-                "common": "Saint Vincent and the Grenadines"
+                "common": "Saint Vincent and the Grenadines",
+                "official": "Saint Vincent and the Grenadines"
             },
             "codes": {
                 "alpha_2": "VC",
@@ -8122,7 +8315,8 @@
         },
         {
             "names": {
-                "common": "Samoa"
+                "common": "Samoa",
+                "official": "Independent State of Samoa"
             },
             "codes": {
                 "alpha_2": "WS",
@@ -8165,7 +8359,8 @@
         },
         {
             "names": {
-                "common": "San Marino"
+                "common": "San Marino",
+                "official": "Republic of San Marino"
             },
             "codes": {
                 "alpha_2": "SM",
@@ -8205,7 +8400,8 @@
         },
         {
             "names": {
-                "common": "Saudi Arabia"
+                "common": "Saudi Arabia",
+                "official": "Kingdom of Saudi Arabia"
             },
             "codes": {
                 "alpha_2": "SA",
@@ -8245,7 +8441,8 @@
         },
         {
             "names": {
-                "common": "Senegal"
+                "common": "Senegal",
+                "official": "Republic of Senegal"
             },
             "codes": {
                 "alpha_2": "SN",
@@ -8285,7 +8482,8 @@
         },
         {
             "names": {
-                "common": "Serbia"
+                "common": "Serbia",
+                "official": "Republic of Serbia"
             },
             "codes": {
                 "alpha_2": "RS",
@@ -8325,7 +8523,8 @@
         },
         {
             "names": {
-                "common": "Seychelles"
+                "common": "Seychelles",
+                "official": "Republic of Seychelles"
             },
             "codes": {
                 "alpha_2": "SC",
@@ -8371,7 +8570,8 @@
         },
         {
             "names": {
-                "common": "Sierra Leone"
+                "common": "Sierra Leone",
+                "official": "Republic of Sierra Leone"
             },
             "codes": {
                 "alpha_2": "SL",
@@ -8411,7 +8611,8 @@
         },
         {
             "names": {
-                "common": "Singapore"
+                "common": "Singapore",
+                "official": "Republic of Singapore"
             },
             "codes": {
                 "alpha_2": "SG",
@@ -8460,7 +8661,8 @@
         },
         {
             "names": {
-                "common": "Sint Maarten"
+                "common": "Sint Maarten",
+                "official": "Sint Maarten"
             },
             "codes": {
                 "alpha_2": "SX",
@@ -8506,7 +8708,8 @@
         },
         {
             "names": {
-                "common": "Slovakia"
+                "common": "Slovakia",
+                "official": "Slovak Republic"
             },
             "codes": {
                 "alpha_2": "SK",
@@ -8546,7 +8749,8 @@
         },
         {
             "names": {
-                "common": "Slovenia"
+                "common": "Slovenia",
+                "official": "Republic of Slovenia"
             },
             "codes": {
                 "alpha_2": "SI",
@@ -8586,7 +8790,8 @@
         },
         {
             "names": {
-                "common": "Solomon Islands"
+                "common": "Solomon Islands",
+                "official": "Solomon Islands"
             },
             "codes": {
                 "alpha_2": "SB",
@@ -8626,7 +8831,8 @@
         },
         {
             "names": {
-                "common": "Somalia"
+                "common": "Somalia",
+                "official": "Federal Republic of Somalia"
             },
             "codes": {
                 "alpha_2": "SO",
@@ -8669,7 +8875,8 @@
         },
         {
             "names": {
-                "common": "Somaliland"
+                "common": "Somaliland",
+                "official": "Republic of Somaliland"
             },
             "codes": {
                 "alpha_2": "",
@@ -8715,7 +8922,8 @@
         },
         {
             "names": {
-                "common": "South Africa"
+                "common": "South Africa",
+                "official": "Republic of South Africa"
             },
             "codes": {
                 "alpha_2": "ZA",
@@ -8791,7 +8999,8 @@
         },
         {
             "names": {
-                "common": "South Georgia"
+                "common": "South Georgia",
+                "official": "South Georgia and the South Sandwich Islands"
             },
             "codes": {
                 "alpha_2": "GS",
@@ -8831,7 +9040,8 @@
         },
         {
             "names": {
-                "common": "South Korea"
+                "common": "South Korea",
+                "official": "Republic of Korea"
             },
             "codes": {
                 "alpha_2": "KR",
@@ -8871,7 +9081,8 @@
         },
         {
             "names": {
-                "common": "South Ossetia"
+                "common": "South Ossetia",
+                "official": "Republic of South Ossetia"
             },
             "codes": {
                 "alpha_2": "",
@@ -8914,7 +9125,8 @@
         },
         {
             "names": {
-                "common": "South Sudan"
+                "common": "South Sudan",
+                "official": "Republic of South Sudan"
             },
             "codes": {
                 "alpha_2": "SS",
@@ -8954,7 +9166,8 @@
         },
         {
             "names": {
-                "common": "Spain"
+                "common": "Spain",
+                "official": "Kingdom of Spain"
             },
             "codes": {
                 "alpha_2": "ES",
@@ -9006,7 +9219,8 @@
         },
         {
             "names": {
-                "common": "Sri Lanka"
+                "common": "Sri Lanka",
+                "official": "Democratic Socialist Republic of Sri Lanka"
             },
             "codes": {
                 "alpha_2": "LK",
@@ -9049,7 +9263,8 @@
         },
         {
             "names": {
-                "common": "Sudan"
+                "common": "Sudan",
+                "official": "Republic of the Sudan"
             },
             "codes": {
                 "alpha_2": "SD",
@@ -9092,7 +9307,8 @@
         },
         {
             "names": {
-                "common": "Suriname"
+                "common": "Suriname",
+                "official": "Republic of Suriname"
             },
             "codes": {
                 "alpha_2": "SR",
@@ -9132,7 +9348,8 @@
         },
         {
             "names": {
-                "common": "Svalbard and Jan Mayen"
+                "common": "Svalbard and Jan Mayen",
+                "official": "Svalbard og Jan Mayen"
             },
             "codes": {
                 "alpha_2": "SJ",
@@ -9172,7 +9389,8 @@
         },
         {
             "names": {
-                "common": "Sweden"
+                "common": "Sweden",
+                "official": "Kingdom of Sweden"
             },
             "codes": {
                 "alpha_2": "SE",
@@ -9212,7 +9430,8 @@
         },
         {
             "names": {
-                "common": "Switzerland"
+                "common": "Switzerland",
+                "official": "Swiss Confederation"
             },
             "codes": {
                 "alpha_2": "CH",
@@ -9261,7 +9480,8 @@
         },
         {
             "names": {
-                "common": "Syria"
+                "common": "Syria",
+                "official": "Syrian Arab Republic"
             },
             "codes": {
                 "alpha_2": "SY",
@@ -9301,7 +9521,8 @@
         },
         {
             "names": {
-                "common": "São Tomé and Príncipe"
+                "common": "São Tomé and Príncipe",
+                "official": "Democratic Republic of São Tomé and Príncipe"
             },
             "codes": {
                 "alpha_2": "ST",
@@ -9341,7 +9562,8 @@
         },
         {
             "names": {
-                "common": "Taiwan"
+                "common": "Taiwan",
+                "official": "Republic of China (Taiwan)"
             },
             "codes": {
                 "alpha_2": "TW",
@@ -9381,7 +9603,8 @@
         },
         {
             "names": {
-                "common": "Tajikistan"
+                "common": "Tajikistan",
+                "official": "Republic of Tajikistan"
             },
             "codes": {
                 "alpha_2": "TJ",
@@ -9424,7 +9647,8 @@
         },
         {
             "names": {
-                "common": "Tanzania"
+                "common": "Tanzania",
+                "official": "United Republic of Tanzania"
             },
             "codes": {
                 "alpha_2": "TZ",
@@ -9467,7 +9691,8 @@
         },
         {
             "names": {
-                "common": "Thailand"
+                "common": "Thailand",
+                "official": "Kingdom of Thailand"
             },
             "codes": {
                 "alpha_2": "TH",
@@ -9507,7 +9732,8 @@
         },
         {
             "names": {
-                "common": "Timor-Leste"
+                "common": "Timor-Leste",
+                "official": "Democratic Republic of Timor-Leste"
             },
             "codes": {
                 "alpha_2": "TL",
@@ -9550,7 +9776,8 @@
         },
         {
             "names": {
-                "common": "Togo"
+                "common": "Togo",
+                "official": "Togolese Republic"
             },
             "codes": {
                 "alpha_2": "TG",
@@ -9590,7 +9817,8 @@
         },
         {
             "names": {
-                "common": "Tokelau"
+                "common": "Tokelau",
+                "official": "Tokelau"
             },
             "codes": {
                 "alpha_2": "TK",
@@ -9636,7 +9864,8 @@
         },
         {
             "names": {
-                "common": "Tonga"
+                "common": "Tonga",
+                "official": "Kingdom of Tonga"
             },
             "codes": {
                 "alpha_2": "TO",
@@ -9679,7 +9908,8 @@
         },
         {
             "names": {
-                "common": "Trinidad and Tobago"
+                "common": "Trinidad and Tobago",
+                "official": "Republic of Trinidad and Tobago"
             },
             "codes": {
                 "alpha_2": "TT",
@@ -9719,7 +9949,8 @@
         },
         {
             "names": {
-                "common": "Tunisia"
+                "common": "Tunisia",
+                "official": "Republic of Tunisia"
             },
             "codes": {
                 "alpha_2": "TN",
@@ -9759,7 +9990,8 @@
         },
         {
             "names": {
-                "common": "Turkey"
+                "common": "Turkey",
+                "official": "Republic of Türkiye"
             },
             "codes": {
                 "alpha_2": "TR",
@@ -9799,7 +10031,8 @@
         },
         {
             "names": {
-                "common": "Turkmenistan"
+                "common": "Turkmenistan",
+                "official": "Turkmenistan"
             },
             "codes": {
                 "alpha_2": "TM",
@@ -9842,7 +10075,8 @@
         },
         {
             "names": {
-                "common": "Turks and Caicos Islands"
+                "common": "Turks and Caicos Islands",
+                "official": "Turks and Caicos Islands"
             },
             "codes": {
                 "alpha_2": "TC",
@@ -9882,7 +10116,8 @@
         },
         {
             "names": {
-                "common": "Tuvalu"
+                "common": "Tuvalu",
+                "official": "Tuvalu"
             },
             "codes": {
                 "alpha_2": "TV",
@@ -9930,7 +10165,8 @@
         },
         {
             "names": {
-                "common": "Uganda"
+                "common": "Uganda",
+                "official": "Republic of Uganda"
             },
             "codes": {
                 "alpha_2": "UG",
@@ -9973,7 +10209,8 @@
         },
         {
             "names": {
-                "common": "Ukraine"
+                "common": "Ukraine",
+                "official": "Ukraine"
             },
             "codes": {
                 "alpha_2": "UA",
@@ -10013,7 +10250,8 @@
         },
         {
             "names": {
-                "common": "United Arab Emirates"
+                "common": "United Arab Emirates",
+                "official": "United Arab Emirates"
             },
             "codes": {
                 "alpha_2": "AE",
@@ -10053,7 +10291,8 @@
         },
         {
             "names": {
-                "common": "United Kingdom"
+                "common": "United Kingdom",
+                "official": "United Kingdom of Great Britain and Northern Ireland"
             },
             "codes": {
                 "alpha_2": "GB",
@@ -10093,7 +10332,8 @@
         },
         {
             "names": {
-                "common": "United States"
+                "common": "United States",
+                "official": "United States of America"
             },
             "codes": {
                 "alpha_2": "US",
@@ -10133,7 +10373,8 @@
         },
         {
             "names": {
-                "common": "United States Minor Outlying Islands"
+                "common": "United States Minor Outlying Islands",
+                "official": "United States Minor Outlying Islands"
             },
             "codes": {
                 "alpha_2": "UM",
@@ -10169,7 +10410,8 @@
         },
         {
             "names": {
-                "common": "United States Virgin Islands"
+                "common": "United States Virgin Islands",
+                "official": "Virgin Islands of the United States"
             },
             "codes": {
                 "alpha_2": "VI",
@@ -10209,7 +10451,8 @@
         },
         {
             "names": {
-                "common": "Uruguay"
+                "common": "Uruguay",
+                "official": "Oriental Republic of Uruguay"
             },
             "codes": {
                 "alpha_2": "UY",
@@ -10249,7 +10492,8 @@
         },
         {
             "names": {
-                "common": "Uzbekistan"
+                "common": "Uzbekistan",
+                "official": "Republic of Uzbekistan"
             },
             "codes": {
                 "alpha_2": "UZ",
@@ -10292,7 +10536,8 @@
         },
         {
             "names": {
-                "common": "Vanuatu"
+                "common": "Vanuatu",
+                "official": "Republic of Vanuatu"
             },
             "codes": {
                 "alpha_2": "VU",
@@ -10338,7 +10583,8 @@
         },
         {
             "names": {
-                "common": "Vatican City"
+                "common": "Vatican City",
+                "official": "Vatican City State"
             },
             "codes": {
                 "alpha_2": "VA",
@@ -10381,7 +10627,8 @@
         },
         {
             "names": {
-                "common": "Venezuela"
+                "common": "Venezuela",
+                "official": "Bolivarian Republic of Venezuela"
             },
             "codes": {
                 "alpha_2": "VE",
@@ -10421,7 +10668,8 @@
         },
         {
             "names": {
-                "common": "Vietnam"
+                "common": "Vietnam",
+                "official": "Socialist Republic of Vietnam"
             },
             "codes": {
                 "alpha_2": "VN",
@@ -10461,7 +10709,8 @@
         },
         {
             "names": {
-                "common": "Wallis and Futuna"
+                "common": "Wallis and Futuna",
+                "official": "Territory of the Wallis and Futuna Islands"
             },
             "codes": {
                 "alpha_2": "WF",
@@ -10501,7 +10750,8 @@
         },
         {
             "names": {
-                "common": "Western Sahara"
+                "common": "Western Sahara",
+                "official": "Sahrawi Arab Democratic Republic"
             },
             "codes": {
                 "alpha_2": "EH",
@@ -10554,7 +10804,8 @@
         },
         {
             "names": {
-                "common": "Yemen"
+                "common": "Yemen",
+                "official": "Republic of Yemen"
             },
             "codes": {
                 "alpha_2": "YE",
@@ -10594,7 +10845,8 @@
         },
         {
             "names": {
-                "common": "Zambia"
+                "common": "Zambia",
+                "official": "Republic of Zambia"
             },
             "codes": {
                 "alpha_2": "ZM",
@@ -10634,7 +10886,8 @@
         },
         {
             "names": {
-                "common": "Zimbabwe"
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
             },
             "codes": {
                 "alpha_2": "ZW",
@@ -10716,7 +10969,8 @@
         },
         {
             "names": {
-                "common": "Åland Islands"
+                "common": "Åland Islands",
+                "official": "Åland Islands"
             },
             "codes": {
                 "alpha_2": "AX",
